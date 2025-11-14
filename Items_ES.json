@@ -100,7 +100,7 @@
         "hitType": 0,
         "iconIndex": 351,
         "itypeId": 1,
-        "name": "Suturing Kit",
+        "name": "Kit de Sutura",
         "note": "<WD_Items: medical>",
         "occasion": 2,
         "price": 120,
@@ -310,12 +310,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's taken a liking to you.",
+        "description": "Le has caído bien.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 545,
         "itypeId": 1,
-        "name": "Rat Baby Thing",
+        "name": "Cosa de Bebé Rata",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -375,7 +375,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Use outside of battle to recover 20% of HP and\nrecover from bleeding.",
+        "description": "Usar fuera de combate para recuperar 20% de PV y\nrecuperarse del sangrado.",
         "effects": [
             {
                 "code": 11,
@@ -444,7 +444,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Use to recover 40% HP, and relieves pain.\nCan even be used in the heat of battle.",
+        "description": "Usar para recuperar 40% de PV y aliviar el dolor.\nPuede incluso usarse en pleno combate.",
         "effects": [
             {
                 "code": 11,
@@ -483,7 +483,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Use outside of battle to recover 50% of HP and\nrevives someone who is unconscious.",
+        "description": "Usar fuera de combate para recuperar 50% de PV y\nrevive a alguien que está inconsciente.",
         "effects": [
             {
                 "code": 11,
@@ -501,7 +501,7 @@
         "hitType": 0,
         "iconIndex": 325,
         "itypeId": 1,
-        "name": "Botiquín de Primeros Auxilios",
+        "name": "Kit de Primeros Auxilios",
         "note": "<WD_Items: medical>",
         "occasion": 2,
         "price": 70,
@@ -522,7 +522,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Thick balm that can cure bleeding, burns or acid.\nCan even be used in the heat of battle.",
+        "description": "Bálsamo espeso que puede curar sangrado, quemaduras o ácido.\nPuede incluso usarse en pleno combate.",
         "effects": [
             {
                 "code": 22,
@@ -612,7 +612,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Revives someone back to consciousness, and can be\nused in battle. Also wakes from sleep.",
+        "description": "Revive a alguien de vuelta a la consciencia y puede\nusarse en combate. También despierta del sueño.",
         "effects": [
             {
                 "code": 22,
@@ -636,7 +636,7 @@
         "hitType": 0,
         "iconIndex": 371,
         "itypeId": 1,
-        "name": "Smelling Salts",
+        "name": "Sales de Olor",
         "note": "<WD_Items: medical>",
         "occasion": 0,
         "price": 80,
@@ -762,7 +762,7 @@
         "hitType": 0,
         "iconIndex": 341,
         "itypeId": 1,
-        "name": "Medication",
+        "name": "Medicamento",
         "note": "<WD_Items: medical>",
         "occasion": 0,
         "price": 60,
@@ -783,7 +783,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Restores 50% of HP and STM, and revives.\nCan even be used in the heat of battle.",
+        "description": "Restaura 50% de PV y EST, y revive.\nPuede incluso usarse en pleno combate.",
         "effects": [
             {
                 "code": 22,
@@ -936,7 +936,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] Salty bag of ruffled chips.\nRecovers at least 14 HP and 2 STM.",
+        "description": "[REFRIGERIO] Bolsa salada de papas onduladas.\nRecupera al menos 14 PV y 2 EST.",
         "effects": [
             {
                 "code": 11,
@@ -975,7 +975,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A bag of very spicy chips.\nRecovers at least 10 HP, 4 STM.",
+        "description": "[REFRIGERIO] Una bolsa de papas muy picantes.\nRecupera al menos 10 PV, 4 EST.",
         "effects": [
             {
                 "code": 11,
@@ -993,7 +993,7 @@
         "hitType": 0,
         "iconIndex": 405,
         "itypeId": 1,
-        "name": "Spicy Chips",
+        "name": "Papas Picantes",
         "note": "<food:2>\n<teeth:1>\n<WD_Items: snack>",
         "occasion": 2,
         "price": 8,
@@ -1014,7 +1014,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A bag of small fried onion rings.\nRecovers at least 24 HP.",
+        "description": "[REFRIGERIO] Una bolsa de aros de cebolla fritos pequeños.\nRecupera al menos 24 PV.",
         "effects": [
             {
                 "code": 11,
@@ -1026,7 +1026,7 @@
         "hitType": 0,
         "iconIndex": 404,
         "itypeId": 1,
-        "name": "Onion-Os",
+        "name": "Aros de Cebolla",
         "note": "<food:4>\n<teeth:1>\n<WD_Items: snack>",
         "occasion": 2,
         "price": 12,
@@ -1047,7 +1047,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A bag of corn-cheese puff snacks.\nRecovers at least 16 HP and 4 STM.",
+        "description": "[REFRIGERIO] Una bolsa de bocadillos de maíz con queso.\nRecupera al menos 16 PV y 4 EST.",
         "effects": [
             {
                 "code": 11,
@@ -1086,7 +1086,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A thick chocolate bar with caramel filling.\nRecovers at least 16 HP, 8 STM. Somewhat filling.",
+        "description": "[REFRIGERIO] Una barra gruesa de chocolate con relleno de caramelo.\nRecupera al menos 16 PV, 8 EST. Algo saciante.",
         "effects": [
             {
                 "code": 11,
@@ -1125,7 +1125,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A somewhat filling granola bar.\nRecovers at least 28 HP, 2 STM.",
+        "description": "[REFRIGERIO] Una barra de granola algo saciante.\nRecupera al menos 28 PV, 2 EST.",
         "effects": [
             {
                 "code": 11,
@@ -1143,7 +1143,7 @@
         "hitType": 0,
         "iconIndex": 419,
         "itypeId": 1,
-        "name": "Granola Bar",
+        "name": "Barra de Granola",
         "note": "<food:6>\n<teeth:1>\n<WD_Items: snack>",
         "occasion": 2,
         "price": 16,
@@ -1164,7 +1164,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A big carrot muffin.\nRecovers at least 48 HP. Somewhat filling.",
+        "description": "[REFRIGERIO] Un gran muffin de zanahoria.\nRecupera al menos 48 PV. Algo saciante.",
         "effects": [
             {
                 "code": 11,
@@ -1197,7 +1197,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] Chocolate sticks. Packaging is in Japanese.\nRecovers at least 20 HP, 14 STM.",
+        "description": "[REFRIGERIO] Palitos de chocolate. El empaque está en japonés.\nRecupera al menos 20 PV, 14 EST.",
         "effects": [
             {
                 "code": 11,
@@ -1236,7 +1236,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] Small candy in a wrapper.\nRecovers at least 4 HP.",
+        "description": "[REFRIGERIO] Dulce pequeño en un envoltorio.\nRecupera al menos 4 PV.",
         "effects": [
             {
                 "code": 11,
@@ -1269,12 +1269,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] Chewing gum that helps with bad breath.",
+        "description": "[REFRIGERIO] Chicle que ayuda con el mal aliento.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 436,
         "itypeId": 1,
-        "name": "Mint Gum",
+        "name": "Chicle de Menta",
         "note": "<WD_Items: snack>",
         "occasion": 2,
         "price": 6,
@@ -1295,7 +1295,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A double-bag of bear-shaped fruit gum candy.\nRecovers at least 8 HP.",
+        "description": "[REFRIGERIO] Una bolsa doble de dulces de goma con forma de osito.\nRecupera al menos 8 PV.",
         "effects": [
             {
                 "code": 11,
@@ -1307,7 +1307,7 @@
         "hitType": 0,
         "iconIndex": 437,
         "itypeId": 1,
-        "name": "Gummi Bears",
+        "name": "Ositos de Goma",
         "note": "<food:1>\n<teeth:2>\n<WD_Items: snack>",
         "occasion": 2,
         "price": 8,
@@ -1328,7 +1328,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] Did a worm bake this pie?\nRestores at least 80 HP and STM to the whole party.",
+        "description": "[REFRIGERIO] ¿Un gusano horneó este pastel?\nRestdaura al menos 80 PV y EST a todo el grupo.",
         "effects": [
             {
                 "code": 11,
@@ -1346,7 +1346,7 @@
         "hitType": 0,
         "iconIndex": 950,
         "itypeId": 1,
-        "name": "Worm-Baked Pie",
+        "name": "Pastel Horneado con Gusanos",
         "note": "<food:20>\n<teeth:1>\n<WD_Items: snack>",
         "occasion": 2,
         "price": 14,
@@ -1367,7 +1367,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A lump of fungus roughly shaped like\na fruit...",
+        "description": "[REFRIGERIO] Un bulto de hongo con forma aproximada de\nuna fruta...",
         "effects": [
             {
                 "code": 21,
@@ -1379,7 +1379,7 @@
         "hitType": 0,
         "iconIndex": 435,
         "itypeId": 1,
-        "name": "Succulent Fruit??",
+        "name": "¿¿Fruta Suculenta??",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1400,7 +1400,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A very juicy fruit.\nRecovers 20 HP, 10 STM.",
+        "description": "[REFRIGERIO] Una fruta muy jugosa.\nRecupera 20 PV, 10 EST.",
         "effects": [
             {
                 "code": 11,
@@ -1424,7 +1424,7 @@
         "hitType": 0,
         "iconIndex": 435,
         "itypeId": 1,
-        "name": "Succulent Fruit",
+        "name": "Fruta Suculenta",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1445,7 +1445,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "More powerful tonic! Use to recover 60% HP!\nCan even be used in the heat of battle.",
+        "description": "¡Tónico más poderoso! ¡Usar para recuperar 60% de PV!\nPuede incluso usarse en pleno combate.",
         "effects": [
             {
                 "code": 11,
@@ -1463,7 +1463,7 @@
         "hitType": 0,
         "iconIndex": 324,
         "itypeId": 1,
-        "name": "Tonic+",
+        "name": "Tónico+",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1484,7 +1484,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This is a lump of fungus roughly shaped like\na tonic bottle...",
+        "description": "Esto es un bulto de hongo con forma aproximada de\nuna botella de tónico...",
         "effects": [
             {
                 "code": 21,
@@ -1496,7 +1496,7 @@
         "hitType": 0,
         "iconIndex": 324,
         "itypeId": 1,
-        "name": "Tonic+??",
+        "name": "¿¿Tónico+??",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1582,7 +1582,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[DRINK] Sugary drink with some caffeine.\nRecovers 12 STM.",
+        "description": "[BEBIDA] Bebida azucarada con algo de cafeína.\nRecupera 12 EST.",
         "effects": [
             {
                 "code": 12,
@@ -1615,7 +1615,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[DRINK] Caffeine-free sugary drink.\nRecovers 8 STM.",
+        "description": "[BEBIDA] Bebida azucarada sin cafeína.\nRecupera 8 EST.",
         "effects": [
             {
                 "code": 12,
@@ -1627,7 +1627,7 @@
         "hitType": 0,
         "iconIndex": 391,
         "itypeId": 1,
-        "name": "Lemon Drink Can",
+        "name": "Lata de Bebida de Limón",
         "note": "<energy:2>\n<teeth:5>",
         "occasion": 0,
         "price": 8,
@@ -1648,7 +1648,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[DRINK] Caffeine-free sugary drink.\nRecovers 10 STM.",
+        "description": "[BEBIDA] Bebida azucarada sin cafeína.\nRecupera 10 EST.",
         "effects": [
             {
                 "code": 12,
@@ -1660,7 +1660,7 @@
         "hitType": 0,
         "iconIndex": 392,
         "itypeId": 1,
-        "name": "Orange Drink Can",
+        "name": "Lata de Bebida de Naranja",
         "note": "<energy:3>\n<teeth:6>",
         "occasion": 0,
         "price": 8,
@@ -1681,7 +1681,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[DRINK] Orange juice in a box.\nRecovers 6 STM.",
+        "description": "[BEBIDA] Jugo de naranja en caja.\nRecupera 6 EST.",
         "effects": [
             {
                 "code": 12,
@@ -1714,7 +1714,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[DRINK] A cup of coffee. It got cold...\nRecovers 15 STM.",
+        "description": "[BEBIDA] Una taza de café. Se enfrió...\nRecupera 15 EST.",
         "effects": [
             {
                 "code": 12,
@@ -1747,7 +1747,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[DRINK] A warm cup of drip coffee.\nRecovers 30 STM.",
+        "description": "[BEBIDA] Una taza caliente de café de filtro.\nRecupera 30 EST.",
         "effects": [
             {
                 "code": 12,
@@ -1780,7 +1780,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[DRINK] Bottle of beer.\nRecovers 8 STM.",
+        "description": "[BEBIDA] Botella de cerveza.\nRecupera 8 EST.",
         "effects": [
             {
                 "code": 12,
@@ -1813,7 +1813,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[DRINK] Bottle of whiskey.\nRecovers 16 STM.",
+        "description": "[BEBIDA] Botella de whisky.\nRecupera 16 EST.",
         "effects": [
             {
                 "code": 12,
@@ -1846,7 +1846,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[DRINK] Bottle of vodka.\nRecovers 20 STM.",
+        "description": "[BEBIDA] Botella de vodka.\nRecupera 20 EST.",
         "effects": [
             {
                 "code": 12,
@@ -1879,7 +1879,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[DRINK] A can of high-caffeine energy drink.\nRecovers 42 STM.",
+        "description": "[BEBIDA] Una lata de bebida energética alta en cafeína.\nRecupera 42 EST.",
         "effects": [
             {
                 "code": 12,
@@ -1924,7 +1924,7 @@
         "hitType": 0,
         "iconIndex": 383,
         "itypeId": 1,
-        "name": "Worm Juice",
+        "name": "Jugo de Gusano",
         "note": "<WD_Items: craft mxPALEFLUID mxGAS>\n<mxCode:WORMJ>",
         "occasion": 1,
         "price": 50,
@@ -1945,7 +1945,7 @@
             "type": 3,
             "variance": 30
         },
-        "description": "Medicine crafted from black ooze. Use to recover\naround 50% HP, but increases danger upon use.",
+        "description": "Medicina elaborada con baba negra. Usar para recuperar\nalrededor de 50% de PV, pero aumenta el peligro al usarla.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 373,
@@ -1995,7 +1995,7 @@
         "hitType": 0,
         "iconIndex": 399,
         "itypeId": 1,
-        "name": "Worm Perfume",
+        "name": "Perfume de Gusano",
         "note": "",
         "occasion": 1,
         "price": 100,
@@ -2016,7 +2016,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] Some rotten leftovers from a meal.\nRecovers some hunger, but...",
+        "description": "[REFRIGERIO] Algunas sobras podridas de una comida.\nRecupera algo de hambre, pero...",
         "effects": [
             {
                 "code": 11,
@@ -2040,7 +2040,7 @@
         "hitType": 0,
         "iconIndex": 993,
         "itypeId": 1,
-        "name": "Rotten Leftovers",
+        "name": "Sobras Podridas",
         "note": "<food:2>\n<teeth:1>\n<WD_Items: snack>",
         "occasion": 2,
         "price": 2,
@@ -2061,7 +2061,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] Some leftovers from a meal.\nRecovers 12 HP and 4 STM.",
+        "description": "[REFRIGERIO] Algunas sobras de una comida.\nRecupera 12 PV y 4 EST.",
         "effects": [
             {
                 "code": 11,
@@ -2100,7 +2100,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A hearty chicken sandwich with diced onions.\nRecovers at least 40 HP. Very filling.",
+        "description": "[REFRIGERIO] Un sándwich sustancioso de pollo con cebollas picadas.\nRecupera al menos 40 PV. Muy saciante.",
         "effects": [
             {
                 "code": 11,
@@ -2133,7 +2133,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A sandwich with egg salad and mayo.\nRecovers at least 32 HP. Very filling.",
+        "description": "[REFRIGERIO] Un sándwich con ensalada de huevo y mayonesa.\nRecupera al menos 32 PV. Muy saciante.",
         "effects": [
             {
                 "code": 11,
@@ -2166,7 +2166,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A tomato sandwich with mayo, pepper\nand chives. Recovers at least 28 HP and 10 STM",
+        "description": "[REFRIGERIO] Un sándwich de tomate con mayonesa, pimienta\ny cebollín. Recupera al menos 28 PV y 10 EST",
         "effects": [
             {
                 "code": 11,
@@ -2184,7 +2184,7 @@
         "hitType": 0,
         "iconIndex": 979,
         "itypeId": 1,
-        "name": "Tomato Sandwich",
+        "name": "Sándwich de Tomate",
         "note": "<food:10>\n<teeth:1>\n<WD_Items: snack sandwich>",
         "occasion": 2,
         "price": 12,
@@ -2205,7 +2205,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A hearty ham sandwich with mustard and\nlettuce. Recovers at least 40 HP. Very filling.",
+        "description": "[REFRIGERIO] Un sándwich sustancioso de jamón con mostaza y\nlechuga. Recupera al menos 40 PV. Muy saciante.",
         "effects": [
             {
                 "code": 11,
@@ -2217,7 +2217,7 @@
         "hitType": 0,
         "iconIndex": 979,
         "itypeId": 1,
-        "name": "Ham Sandwich",
+        "name": "Sándwich de Jamón",
         "note": "<food:12>\n<teeth:1>\n<WD_Items: snack sandwich>",
         "occasion": 2,
         "price": 12,
@@ -2238,7 +2238,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A hearty chicken burrito with beans and rice.\nRecovers at least 30 HP and 10 STM. Very filling.",
+        "description": "[REFRIGERIO] Un burrito sustancioso de pollo con frijoles y arroz.\nRecupera al menos 30 PV y 10 EST. Muy saciante.",
         "effects": [
             {
                 "code": 11,
@@ -2277,7 +2277,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A huge sandwich filled with goodies.\nRecovers at least 50 HP and 20 STM. Very filling.",
+        "description": "[REFRIGERIO] Un enorme sándwich lleno de delicias.\nRecupera al menos 50 PV y 20 EST. Muy saciante.",
         "effects": [
             {
                 "code": 11,
@@ -2316,7 +2316,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] This pizza has seen better days. A bit\nrisky to eat... Recovers 8 HP and 2 STM.",
+        "description": "[REFRIGERIO] Esta pizza ha visto mejores días. Un poco\narriesgado comerla... Recupera 8 PV y 2 EST.",
         "effects": [
             {
                 "code": 11,
@@ -2340,7 +2340,7 @@
         "hitType": 0,
         "iconIndex": 942,
         "itypeId": 1,
-        "name": "Rotten Pizza",
+        "name": "Pizza Podrida",
         "note": "<food:6>\n<teeth:1>\n<WD_Items: snack>",
         "occasion": 2,
         "price": 0,
@@ -2361,7 +2361,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] It lost a bit of its freshness, but it's\nstill good. Recovers 12 HP and 2 STM.",
+        "description": "[REFRIGERIO] Perdió un poco de su frescura, pero aún\nestá bueno. Recupera 12 PV y 2 EST.",
         "effects": [
             {
                 "code": 11,
@@ -2400,7 +2400,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A slice of basic cheese pizza.\nSometimes simple is good! Recovers 16 HP, 4 STM.",
+        "description": "[REFRIGERIO] Una rebanada de pizza básica de queso.\n¡A veces lo simple es bueno! Recupera 16 PV, 4 EST.",
         "effects": [
             {
                 "code": 11,
@@ -2439,7 +2439,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A slice of Italian-style pizza.\nRecovers 20 HP and 10 STM.",
+        "description": "[REFRIGERIO] Una rebanada de pizza estilo italiano.\nRecupera 20 PV y 10 EST.",
         "effects": [
             {
                 "code": 11,
@@ -2457,7 +2457,7 @@
         "hitType": 0,
         "iconIndex": 959,
         "itypeId": 1,
-        "name": "Italian Pizza",
+        "name": "Pizza Italiana",
         "note": "<food:10>\n<teeth:1>\n<WD_Items: snack>",
         "occasion": 2,
         "price": 4,
@@ -2478,7 +2478,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A slice of standard, all-dressed pizza.\nRecovers 24 HP and 6 STM.",
+        "description": "[REFRIGERIO] Una rebanada de pizza estándar con todos los ingredientes.\nRecupera 24 PV y 6 EST.",
         "effects": [
             {
                 "code": 11,
@@ -2517,7 +2517,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A controversial slice of sweet and savory\npineapple pizza. Recovers 20 HP and 14 STM.",
+        "description": "[REFRIGERIO] Una controversial rebanada de pizza\ndulce y salada de piña. Recupera 20 PV y 14 EST.",
         "effects": [
             {
                 "code": 11,
@@ -2535,7 +2535,7 @@
         "hitType": 0,
         "iconIndex": 975,
         "itypeId": 1,
-        "name": "Pineapple Pizza",
+        "name": "Pizza de Piña",
         "note": "<food:10>\n<teeth:1>\n<WD_Items: snack>",
         "occasion": 2,
         "price": 4,
@@ -2556,7 +2556,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A slice of savory veggie pizza.\nHeals 18 HP and 16 STM.",
+        "description": "[REFRIGERIO] Una rebanada de pizza vegetariana sabrosa.\nCura 18 PV y 16 EST.",
         "effects": [
             {
                 "code": 11,
@@ -2574,7 +2574,7 @@
         "hitType": 0,
         "iconIndex": 990,
         "itypeId": 1,
-        "name": "Vegetarian Pizza",
+        "name": "Pizza Vegetariana",
         "note": "<food:10>\n<teeth:1>\n<WD_Items: snack>",
         "occasion": 2,
         "price": 4,
@@ -2595,7 +2595,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] If you love meat, this slice is for you.\nRecovers 44 HP and 4 STM.",
+        "description": "[REFRIGERIO] Si amas la carne, esta rebanada es para ti.\nRecupera 44 PV y 4 EST.",
         "effects": [
             {
                 "code": 11,
@@ -2613,7 +2613,7 @@
         "hitType": 0,
         "iconIndex": 991,
         "itypeId": 1,
-        "name": "Meat Lover's Pizza",
+        "name": "Pizza de Amantes de la Carne",
         "note": "<food:10>\n<teeth:1>\n<WD_Items: snack>",
         "occasion": 2,
         "price": 4,
@@ -2634,7 +2634,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A crispy slice of chicken and mushroom pizza.\nRecovers 32 HP and 6 STM.",
+        "description": "[REFRIGERIO] Una rebanada crujiente de pizza de pollo y champiñones.\nRecupera 32 PV y 6 EST.",
         "effects": [
             {
                 "code": 11,
@@ -2673,7 +2673,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A pizza with too many toppings.\nRecovers 50 HP and 20 STM.",
+        "description": "[REFRIGERIO] Una pizza con demasiados ingredientes.\nRecupera 50 PV y 20 EST.",
         "effects": [
             {
                 "code": 11,
@@ -2712,7 +2712,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A grotesque slice topped with fingers, eyes\nand tongues. Recovers 50 HP and 20 STM, but...",
+        "description": "[REFRIGERIO] Una rebanada grotesca con dedos, ojos\ny lenguas. Recupera 50 PV y 20 EST, pero...",
         "effects": [
             {
                 "code": 11,
@@ -2736,7 +2736,7 @@
         "hitType": 0,
         "iconIndex": 1022,
         "itypeId": 1,
-        "name": "Screaming Pizza",
+        "name": "Pizza Gritante",
         "note": "<food:10>\n<teeth:1>\n<WD_Items: snack>",
         "occasion": 2,
         "price": 1,
@@ -2757,7 +2757,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[DRINK] A warm, sweet and bitter cup of hot cocoa.\nRecovers at least 20 HP and 20 STM.",
+        "description": "[BEBIDA] Una taza caliente, dulce y amarga de chocolate caliente.\nRecupera al menos 20 PV y 20 EST.",
         "effects": [
             {
                 "code": 11,
@@ -2775,7 +2775,7 @@
         "hitType": 0,
         "iconIndex": 439,
         "itypeId": 1,
-        "name": "Hot Cocoa",
+        "name": "Chocolate Caliente",
         "note": "<energy:10>\n<teeth:1>",
         "occasion": 0,
         "price": 20,
@@ -2856,7 +2856,7 @@
         "hitType": 0,
         "iconIndex": 350,
         "itypeId": 1,
-        "name": "Sewage Cocktail",
+        "name": "Cóctel de Alcantarilla",
         "note": "",
         "occasion": 0,
         "price": 1,
@@ -2877,7 +2877,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] An enormous burrito.\nRecovers at least 100 HP and 10 STM. Very filling.",
+        "description": "[REFRIGERIO] Un burrito enorme.\nRecupera al menos 100 PV y 10 EST. Muy saciante.",
         "effects": [
             {
                 "code": 11,
@@ -2916,7 +2916,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A hearty packed meal to eat on the go.\nRecovers at least 80 HP and 40 STM. Very filling.",
+        "description": "[REFRIGERIO] Una comida empacada sustanciosa para comer en el camino.\nRecupera al menos 80 PV y 40 EST. Muy saciante.",
         "effects": [
             {
                 "code": 11,
@@ -2934,7 +2934,7 @@
         "hitType": 0,
         "iconIndex": 994,
         "itypeId": 1,
-        "name": "Packed Meal",
+        "name": "Comida Empacada",
         "note": "<food:32>\n<teeth:1>\n<WD_Items: snack>",
         "occasion": 2,
         "price": 24,
@@ -2955,7 +2955,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[SNACK] A large slice of a strange meaty fruit.\nRecovers at least 32 HP and 16 STM. Somewhat filling.",
+        "description": "[REFRIGERIO] Una rebanada grande de una extraña fruta carnosa.\nRecupera al menos 32 PV y 16 EST. Algo saciante.",
         "effects": [
             {
                 "code": 11,
@@ -2973,7 +2973,7 @@
         "hitType": 0,
         "iconIndex": 981,
         "itypeId": 1,
-        "name": "Fruit Slice",
+        "name": "Rebanada de Fruta",
         "note": "<food:10>\n<teeth:1>\n<WD_Items: snack>",
         "occasion": 2,
         "price": 24,
@@ -3027,7 +3027,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increases power, grants extra attacks and protection\nfrom status effects, but increases all damage taken.",
+        "description": "Aumenta el poder, otorga ataques extra y protección\ncontra efectos de estado, pero aumenta todo el daño recibido.",
         "effects": [
             {
                 "code": 21,
@@ -3072,7 +3072,7 @@
         "hitType": 0,
         "iconIndex": 431,
         "itypeId": 1,
-        "name": "Invulnerable Syringe",
+        "name": "Jeringa de Invulnerabilidad",
         "note": "<WD_Items: medical>",
         "occasion": 1,
         "price": 50,
@@ -3105,7 +3105,7 @@
         "hitType": 0,
         "iconIndex": 402,
         "itypeId": 1,
-        "name": "Wrapped Gift",
+        "name": "Regalo Envuelto",
         "note": "<WD_Items: gift>",
         "occasion": 2,
         "price": 15,
@@ -3185,7 +3185,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Very powerful explosive. Deals 160 Blast damage to\nall enemies, and has a chance to Stun.",
+        "description": "Explosivo muy poderoso. Inflige 160 de daño explosivo a\ntodos los enemigos y tiene posibilidad de Aturdir.",
         "effects": [
             {
                 "code": 21,
@@ -3197,7 +3197,7 @@
         "hitType": 0,
         "iconIndex": 363,
         "itypeId": 1,
-        "name": "Super Explosive",
+        "name": "Super Explosivo",
         "note": "",
         "occasion": 1,
         "price": 120,
@@ -3218,7 +3218,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Powerful incendiary grenade.\nDeals 100 Fire damage, and Burns all targets.",
+        "description": "Granada incendiaria poderosa.\nInflige 100 de daño de fuego y Quema a todos los objetivos.",
         "effects": [
             {
                 "code": 21,
@@ -3251,7 +3251,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Lump of pulsating flesh. Can be thrown in battle.",
+        "description": "Bulto de carne pulsante. Puede lanzarse en combate.",
         "effects": [
             {
                 "code": 21,
@@ -3275,7 +3275,7 @@
         "hitType": 0,
         "iconIndex": 377,
         "itypeId": 1,
-        "name": "Tumor Lump",
+        "name": "Bulto de Tumor",
         "note": "",
         "occasion": 1,
         "price": 8,
@@ -3335,7 +3335,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Strange explosive that projects keratinous shrapnel.\n80 piercing damage to all enemies, may cause Bleed.",
+        "description": "Explosivo extraño que proyecta metralla queratinosa.\n80 de daño perforante a todos los enemigos, puede causar Sangrado.",
         "effects": [
             {
                 "code": 21,
@@ -3380,7 +3380,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "\\N[40] adorably chirps and beeps in your hands.\nShe deals \\V[351] Blast damage to all enemies.",
+        "description": "\\N[40] gorjea y pita adorablemente en tus manos.\nElla inflige \\V[351] de daño explosivo a todos los enemigos.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 349,
@@ -3406,7 +3406,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "\\N[40] adorably chirps and beeps in your hands.\nShe deals \\V[351] Blast damage to one random enemy.",
+        "description": "\\N[40] gorjea y pita adorablemente en tus manos.\nElla inflige \\V[351] de daño explosivo a un enemigo aleatorio.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 349,
@@ -3477,7 +3477,7 @@
         "hitType": 0,
         "iconIndex": 377,
         "itypeId": 1,
-        "name": "Turpentine",
+        "name": "Trementina",
         "note": "",
         "occasion": 1,
         "price": 15,
@@ -3510,7 +3510,7 @@
         "hitType": 0,
         "iconIndex": 377,
         "itypeId": 1,
-        "name": "Shadow Bomb",
+        "name": "Bomba de Sombra",
         "note": "",
         "occasion": 1,
         "price": 5,
@@ -3564,7 +3564,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Homemade gas bomb. Deals little damage, but\nchance to Blind and Stun all enemies.",
+        "description": "Bomba de gas casera. Inflige poco daño, pero tiene\nposibilidad de Ceguera y Aturdimiento a todos los enemigos.",
         "effects": [
             {
                 "code": 21,
@@ -3733,7 +3733,7 @@
         "hitType": 0,
         "iconIndex": 345,
         "itypeId": 1,
-        "name": "Table Fork",
+        "name": "Tenedor de Mesa",
         "note": "",
         "occasion": 1,
         "price": 4,
@@ -3759,7 +3759,7 @@
         "hitType": 0,
         "iconIndex": 346,
         "itypeId": 1,
-        "name": "Table Knife",
+        "name": "Cuchillo de Mesa",
         "note": "",
         "occasion": 1,
         "price": 6,
@@ -3806,12 +3806,12 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Playing dart, good for throwing.\nDeals 50 piercing damage.",
+        "description": "Dardo de juego, bueno para lanzar.\nInflige 50 de daño perforante.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 361,
         "itypeId": 1,
-        "name": "Throwing Dart",
+        "name": "Dardo Arrojadizo",
         "note": "",
         "occasion": 1,
         "price": 10,
@@ -3832,7 +3832,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Knife meant for throwing.\nDeals 50 slashing damage.",
+        "description": "Cuchillo diseñado para lanzar.\nInflige 50 de daño cortante.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 362,
@@ -3858,7 +3858,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Homemade incendiary grenade.\nDeals 60 fire damage, and chance to Burn target.",
+        "description": "Granada incendiaria casera.\nInflige 60 de daño de fuego y posibilidad de Quemar al objetivo.",
         "effects": [
             {
                 "code": 21,
@@ -3891,7 +3891,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Pull the pin, throw and take cover.\nDeals 80 blast damage to all enemies.",
+        "description": "Jala la anilla, lanza y busca cobertura.\nInflige 80 de daño explosivo a todos los enemigos.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 378,
@@ -3917,7 +3917,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Set of throwing stars. Hits three random targets\nfor 30 slashing damage.",
+        "description": "Conjunto de estrellas arrojadizas. Golpea tres objetivos aleatorios\npor 30 de daño cortante.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 379,
@@ -3943,7 +3943,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts heavy Bleeding on all targets.",
+        "description": "Inflige Sangrado severo a todos los objetivos.",
         "effects": [
             {
                 "code": 21,
@@ -4000,7 +4000,7 @@
         "hitType": 0,
         "iconIndex": 514,
         "itypeId": 1,
-        "name": "Teddy",
+        "name": "Osito de Peluche",
         "note": "<WD_Items: gift>",
         "occasion": 1,
         "price": 20,
@@ -4021,12 +4021,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Worth 200 pennies.\nSome vending machines take these.",
+        "description": "Vale 200 centavos.\nAlgunas máquinas expendedoras aceptan estas.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1148,
         "itypeId": 1,
-        "name": "Two-Dollar Coin",
+        "name": "Moneda de Dos Dólares",
         "note": "<WD_Items: coin>\n<coinval:200>",
         "occasion": 3,
         "price": 50,
@@ -4047,7 +4047,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Worth 100 pennies.\nSome vending machines take these.",
+        "description": "Vale 100 centavos.\nAlgunas máquinas expendedoras aceptan estas.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1147,
@@ -4073,7 +4073,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Worth 25 pennies.\nMany vending machines take these.",
+        "description": "Vale 25 centavos.\nMuchas máquinas expendedoras aceptan estas.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1146,
@@ -4099,7 +4099,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Worth 10 pennies.\nSome vending machines take these.",
+        "description": "Vale 10 centavos.\nAlgunas máquinas expendedoras aceptan estas.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1145,
@@ -4125,7 +4125,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Worth 5 pennies.\nFew vending machines take these.",
+        "description": "Vale 5 centavos.\nPocas máquinas expendedoras aceptan estas.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1144,
@@ -4151,7 +4151,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The lowest value coin.\nVery few vending machines take these.",
+        "description": "La moneda de menor valor.\nMuy pocas máquinas expendedoras aceptan estas.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1143,
@@ -4267,7 +4267,7 @@
         "hitType": 0,
         "iconIndex": 350,
         "itypeId": 1,
-        "name": "Monty Special",
+        "name": "Especial de Monty",
         "note": "",
         "occasion": 1,
         "price": 10,
@@ -4288,12 +4288,12 @@
             "type": 1,
             "variance": 50
         },
-        "description": "One of Monty's less successful brewing attempts.\nIt smells rancid. Deals 20 acid damage.",
+        "description": "Uno de los intentos de elaboración menos exitosos de Monty.\nHuele rancio. Inflige 20 de daño ácido.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 350,
         "itypeId": 1,
-        "name": "Monty's Mistake",
+        "name": "Error de Monty",
         "note": "",
         "occasion": 1,
         "price": 1,
@@ -4319,7 +4319,7 @@
         "hitType": 0,
         "iconIndex": 350,
         "itypeId": 1,
-        "name": "Monty's Masterpiece",
+        "name": "Obra Maestra de Monty",
         "note": "",
         "occasion": 1,
         "price": 10,
@@ -4340,7 +4340,7 @@
             "type": 0,
             "variance": 50
         },
-        "description": "This actually smells great, but Monty is ashamed\nof it. He calls it \"dreck\". Recovers 20% HP and MP!",
+        "description": "Esto huele muy bien en realidad, pero Monty se avergüenza\nde ello. Lo llama \"basura\". ¡Recupera 20% de PV y PM!",
         "effects": [
             {
                 "code": 11,
@@ -4358,7 +4358,7 @@
         "hitType": 0,
         "iconIndex": 350,
         "itypeId": 1,
-        "name": "Monty's Shame",
+        "name": "Vergüenza de Monty",
         "note": "",
         "occasion": 0,
         "price": 15,
@@ -4625,7 +4625,7 @@
         "hitType": 0,
         "iconIndex": 415,
         "itypeId": 1,
-        "name": "Worm Bomb",
+        "name": "Bomba de Gusano",
         "note": "",
         "occasion": 1,
         "price": 5,
@@ -4750,7 +4750,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Uncommon candy. Heals at least 20 HP and 10 STM.",
+        "description": "Dulce poco común. Cura al menos 20 PV y 10 EST.",
         "effects": [
             {
                 "code": 11,
@@ -4768,7 +4768,7 @@
         "hitType": 0,
         "iconIndex": 429,
         "itypeId": 1,
-        "name": "Special Candy",
+        "name": "Dulce Especial",
         "note": "",
         "occasion": 2,
         "price": 30,
@@ -4789,7 +4789,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rare candy. Heals at least 40 HP and 20 STM.\nPermanently boosts Agility by 2.",
+        "description": "Dulce raro. Cura al menos 40 PV y 20 EST.\nAumenta permanentemente la Agilidad en 2.",
         "effects": [
             {
                 "code": 42,
@@ -4813,7 +4813,7 @@
         "hitType": 0,
         "iconIndex": 434,
         "itypeId": 1,
-        "name": "Rare Mint Candy",
+        "name": "Dulce de Menta Raro",
         "note": "",
         "occasion": 2,
         "price": 60,
@@ -4834,7 +4834,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rare candy. Heals at least 40 HP and 20 STM.\nPermanently boosts Luck by 2.",
+        "description": "Dulce raro. Cura al menos 40 PV y 20 EST.\nAumenta permanentemente la Suerte en 2.",
         "effects": [
             {
                 "code": 42,
@@ -4858,7 +4858,7 @@
         "hitType": 0,
         "iconIndex": 433,
         "itypeId": 1,
-        "name": "Rare Lime Candy",
+        "name": "Dulce de Lima Raro",
         "note": "",
         "occasion": 2,
         "price": 60,
@@ -4879,7 +4879,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rare candy. Heals at least 40 HP and 20 STM.\nPermanently boosts Attack by 2.",
+        "description": "Dulce raro. Cura al menos 40 PV y 20 EST.\nAumenta permanentemente el Ataque en 2.",
         "effects": [
             {
                 "code": 42,
@@ -4903,7 +4903,7 @@
         "hitType": 0,
         "iconIndex": 432,
         "itypeId": 1,
-        "name": "Rare Banana Candy",
+        "name": "Dulce de Plátano Raro",
         "note": "",
         "occasion": 2,
         "price": 60,
@@ -4924,7 +4924,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rare candy. Heals at least 40 HP and 20 STM.\nPermanently boosts Ballistics by 2.",
+        "description": "Dulce raro. Cura al menos 40 PV y 20 EST.\nAumenta permanentemente la Balística en 2.",
         "effects": [
             {
                 "code": 42,
@@ -4948,7 +4948,7 @@
         "hitType": 0,
         "iconIndex": 416,
         "itypeId": 1,
-        "name": "Rare Cherry Candy",
+        "name": "Dulce de Cereza Raro",
         "note": "",
         "occasion": 2,
         "price": 60,
@@ -4969,7 +4969,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rare candy. Heals at least 40 HP and 20 STM.\nPermanently boosts HP by 20.",
+        "description": "Dulce raro. Cura al menos 40 PV y 20 EST.\nAumenta permanentemente los PV en 20.",
         "effects": [
             {
                 "code": 42,
@@ -4993,7 +4993,7 @@
         "hitType": 0,
         "iconIndex": 417,
         "itypeId": 1,
-        "name": "Rare Soda Candy",
+        "name": "Dulce de Soda Raro",
         "note": "",
         "occasion": 2,
         "price": 80,
@@ -5014,7 +5014,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rare candy. Heals at least 40 HP and 20 STM.\nPermanently boosts STM by 10.",
+        "description": "Dulce raro. Cura al menos 40 PV y 20 EST.\nAumenta permanentemente la EST en 10.",
         "effects": [
             {
                 "code": 42,
@@ -5038,7 +5038,7 @@
         "hitType": 0,
         "iconIndex": 418,
         "itypeId": 1,
-        "name": "Rare Licorice Candy",
+        "name": "Dulce de Regaliz Raro",
         "note": "",
         "occasion": 2,
         "price": 80,
@@ -5059,7 +5059,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Very rare candy. Heals at least 80 HP and 40 STM.\nPermanently boosts HP by 20 and STM by 10.",
+        "description": "Dulce muy raro. Cura al menos 80 PV y 40 EST.\nAumenta permanentemente los PV en 20 y la EST en 10.",
         "effects": [
             {
                 "code": 42,
@@ -5089,7 +5089,7 @@
         "hitType": 0,
         "iconIndex": 428,
         "itypeId": 1,
-        "name": "Hellfire Candy",
+        "name": "Dulce de Fuego Infernal",
         "note": "",
         "occasion": 2,
         "price": 160,
@@ -5110,7 +5110,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Very rare candy. Fully heals HP and STM.\nPermanently boosts all stats by 1.",
+        "description": "Dulce muy raro. Cura completamente PV y EST.\nAumenta permanentemente todas las estadísticas en 1.",
         "effects": [
             {
                 "code": 42,
@@ -5164,7 +5164,7 @@
         "hitType": 0,
         "iconIndex": 444,
         "itypeId": 1,
-        "name": "Nectar Candy",
+        "name": "Dulce de Néctar",
         "note": "",
         "occasion": 2,
         "price": 240,
@@ -5341,7 +5341,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Odd-smelling, thick, pale fluid. Heals 30% HP,\ncures Poison and Paralysis.",
+        "description": "Fluido pálido y espeso de olor extraño. Cura 30% de PV,\ncura Veneno y Parálisis.",
         "effects": [
             {
                 "code": 11,
@@ -5386,7 +5386,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Strange black ooze. It moves on its own, as if alive.\nDrinking this is... dangerous. Increases Danger.",
+        "description": "Baba negra extraña. Se mueve por sí misma, como si estuviera viva.\nBeber esto es... peligroso. Aumenta el Peligro.",
         "effects": [
             {
                 "code": 21,
@@ -5425,7 +5425,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strong-smelling brew of black ooze. Drinking this\nheals 30% STM, cures Panic and Confusion.",
+        "description": "Brebaje de baba negra de olor fuerte. Beber esto\ncura 30% de EST, cura Pánico y Confusión.",
         "effects": [
             {
                 "code": 12,
@@ -5470,7 +5470,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Scrap of cloth. Could be used to make something.",
+        "description": "Pedazo de tela. Podría usarse para hacer algo.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 784,
@@ -5605,7 +5605,7 @@
         "hitType": 0,
         "iconIndex": 364,
         "itypeId": 2,
-        "name": "Radio (Low Power)",
+        "name": "Radio (Baja Potencia)",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -5685,7 +5685,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Stable chemical compound used in crafting.",
+        "description": "Compuesto químico estable usado en fabricación.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 380,
@@ -5737,7 +5737,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Used in certain scientific formulae.",
+        "description": "Usado en ciertas fórmulas científicas.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 382,
@@ -5763,7 +5763,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Sour liquid used in cleaning and cooking.",
+        "description": "Líquido agrio usado en limpieza y cocina.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 393,
@@ -5841,7 +5841,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Powerful multi-purpose chemical used in laundry.",
+        "description": "Químico multipropósito poderoso usado en lavandería.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 409,
@@ -5919,7 +5919,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strong-smelling chemical used in cleaning. Hurts\nthe eyes.",
+        "description": "Químico de olor fuerte usado en limpieza. Lastima\nlos ojos.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 425,
@@ -5945,12 +5945,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Potent weed killer in a spray bottle. Could be\nused to kill those fleshy growths blocking the way.",
+        "description": "Potente herbicida en una botella rociadora. Podría\nusarse para matar esos crecimientos carnosos que bloquean el camino.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 426,
         "itypeId": 1,
-        "name": "Herbicide",
+        "name": "Herbicida",
         "note": "<WD_Items: craft mxKLYSOX mxCATALYST>\n<mxCode:PESTICIDE>",
         "occasion": 3,
         "price": 40,
@@ -5997,7 +5997,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It hitched a ride in your bag.",
+        "description": "Se coló en tu mochila.",
         "effects": [
             {
                 "code": 44,
@@ -6009,7 +6009,7 @@
         "hitType": 0,
         "iconIndex": 540,
         "itypeId": 1,
-        "name": "Roach",
+        "name": "Cucaracha",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -6101,7 +6101,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Showers are more effective with this.",
+        "description": "Las duchas son más efectivas con esto.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 358,
@@ -6217,7 +6217,7 @@
         "hitType": 0,
         "iconIndex": 442,
         "itypeId": 1,
-        "name": "Junk",
+        "name": "Basura",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -6290,12 +6290,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Low caliber bullet for a handgun.",
+        "description": "Bala de bajo calibre para pistola.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 201,
         "itypeId": 1,
-        "name": "Pistol Bullet",
+        "name": "Bala de Pistola",
         "note": "",
         "occasion": 3,
         "price": 5,
@@ -6316,12 +6316,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Magnum revolver bullet.",
+        "description": "Bala para revólver magnum.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 234,
         "itypeId": 1,
-        "name": "Magnum Bullet",
+        "name": "Bala Magnum",
         "note": "",
         "occasion": 3,
         "price": 25,
@@ -6342,12 +6342,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Small caliber bullet for an SMG.",
+        "description": "Bala de calibre pequeño para subfusil.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 202,
         "itypeId": 1,
-        "name": "SMG Bullet",
+        "name": "Bala de Subfusil",
         "note": "",
         "occasion": 3,
         "price": 4,
@@ -6373,7 +6373,7 @@
         "hitType": 0,
         "iconIndex": 203,
         "itypeId": 1,
-        "name": "Rifle Bullet",
+        "name": "Bala de Rifle",
         "note": "",
         "occasion": 3,
         "price": 8,
@@ -6425,7 +6425,7 @@
         "hitType": 0,
         "iconIndex": 235,
         "itypeId": 1,
-        "name": "High Caliber Bullets",
+        "name": "Balas de Alto Calibre",
         "note": "",
         "occasion": 3,
         "price": 16,
@@ -6472,12 +6472,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Small canister of fuel.",
+        "description": "Bidón pequeño de combustible.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 374,
         "itypeId": 1,
-        "name": "Fuel Canister",
+        "name": "Bidón de Combustible",
         "note": "",
         "occasion": 3,
         "price": 50,
@@ -6498,7 +6498,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Small canister of acid.",
+        "description": "Bidón pequeño de ácido.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 375,
@@ -6524,12 +6524,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Small canister of powerful acid.",
+        "description": "Bidón pequeño de ácido poderoso.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 376,
         "itypeId": 1,
-        "name": "X-Acid Canister",
+        "name": "Bidón de Ácido-X",
         "note": "",
         "occasion": 3,
         "price": 120,
@@ -6550,7 +6550,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Steel dart for a dart gun.",
+        "description": "Dardo de acero para pistola de dardos.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 265,
@@ -6576,7 +6576,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Tranquilizer dart for a dart gun.",
+        "description": "Dardo tranquilizante para pistola de dardos.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 265,
@@ -6659,7 +6659,7 @@
         "hitType": 0,
         "iconIndex": 298,
         "itypeId": 1,
-        "name": "Gas Round",
+        "name": "Proyectil de Gas",
         "note": "",
         "occasion": 3,
         "price": 60,
@@ -6706,7 +6706,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Incendiary shell for a grenade launcher.",
+        "description": "Proyectil incendiario para lanzagranadas.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
@@ -6732,12 +6732,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Projectile for a crossbow.",
+        "description": "Proyectil para ballesta.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 281,
         "itypeId": 1,
-        "name": "Standard Bolt",
+        "name": "Perno Estándar",
         "note": "",
         "occasion": 3,
         "price": 6,
@@ -6836,12 +6836,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strange projectile for a crossbow.",
+        "description": "Proyectil extraño para ballesta.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 281,
         "itypeId": 1,
-        "name": "Special Bolt",
+        "name": "Perno Especial",
         "note": "",
         "occasion": 3,
         "price": 32,
@@ -6862,12 +6862,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Tiny capsules filled with something foul.\nMonty makes these.",
+        "description": "Cápsulas diminutas llenas de algo asqueroso.\nMonty hace estas.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 251,
         "itypeId": 1,
-        "name": "Paintball",
+        "name": "Bola de Pintura",
         "note": "",
         "occasion": 3,
         "price": 3,
@@ -7174,12 +7174,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "When pizza's in a bite, you can eat pizza anytime.\nUsed in cooking.",
+        "description": "Cuando la pizza está en un bocado, puedes comer pizza en cualquier momento.\nUsado en cocina.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "Pizza Bites",
+        "name": "Bocados de Pizza",
         "note": "<WD_Items: cook fridge>\n<ckCode:BITES>",
         "occasion": 3,
         "price": 8,
@@ -7205,7 +7205,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "Frozen Veggies",
+        "name": "Vegetales Congelados",
         "note": "<WD_Items: cook fridge ckPIZZA ckSTEW ckRICE ckHAM ckBEEF>\n<ckCode:VEG>",
         "occasion": 3,
         "price": 8,
@@ -7226,12 +7226,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Tasteless fish fillets in a bag. Used in cooking.",
+        "description": "Filetes de pescado sin sabor en una bolsa. Usado en cocina.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "Frozen Fish",
+        "name": "Pescado Congelado",
         "note": "<WD_Items: cook fridge ckSTEW>\n<ckCode:FISH>",
         "occasion": 3,
         "price": 10,
@@ -7304,7 +7304,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Just add hot water and - VOILA! You've got a feast!\nUsed in cooking.",
+        "description": "¡Solo añade agua caliente y - VOILÁ! ¡Tienes un festín!\nUsado en cocina.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
@@ -7335,7 +7335,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "Stew Mix Carton",
+        "name": "Cartón de Mezcla para Guiso",
         "note": "<WD_Items: cook pantry ckVEG ckFISH ckBEAN>\n<ckCode:STEW>",
         "occasion": 3,
         "price": 8,
@@ -7356,7 +7356,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "You'll never guess what's in this can.\nUsed in cooking.",
+        "description": "Nunca adivinarás qué hay en esta lata.\nUsado en cocina.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
@@ -7413,7 +7413,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "Potatoes",
+        "name": "Papas",
         "note": "<WD_Items: cook pantry ckBEEF>\n<ckCode:POTATO>",
         "occasion": 3,
         "price": 5,
@@ -7439,7 +7439,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "Tomato Can",
+        "name": "Lata de Tomate",
         "note": "<WD_Items: cook pantry ckBREAD ckNOODLE ckBEAN ckRICE>\n<ckCode:TOMATO>",
         "occasion": 3,
         "price": 6,
@@ -7543,7 +7543,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "Raw Pork",
+        "name": "Cerdo Crudo",
         "note": "<WD_Items: cook fridge ckPIZZA ckVEG ckBEAN ckBREAD ckEGG>\n<ckCode:PORK>",
         "occasion": 3,
         "price": 12,
@@ -7564,12 +7564,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Thighs, wings, breast... you're getting hungry\nlooking at this chicken! Used in cooking.",
+        "description": "Muslos, alas, pechuga... ¡te estás dando hambre\nmirando este pollo! Usado en cocina.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "Raw Chicken",
+        "name": "Pollo Crudo",
         "note": "<WD_Items: cook fridge ckPIZZA ckNOODLE ckBREAD ckRICE>\n<ckCode:CHICKEN>",
         "occasion": 3,
         "price": 10,
@@ -7595,7 +7595,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "Raw Beef",
+        "name": "Carne Cruda",
         "note": "<WD_Items: cook fridge ckPIZZA ckVEG ckPOTATO>\n<ckCode:BEEF>",
         "occasion": 3,
         "price": 12,
@@ -7694,7 +7694,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] Very abstract color crayon drawings\nfrom a baby.",
+        "description": "\\I[147] Dibujos muy abstractos con crayones de colores\nde un bebé.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1040,
@@ -7720,7 +7720,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] Simple colored marker drawings from a child.",
+        "description": "\\I[147] Simples dibujos con marcadores de colores de un niño.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1041,
@@ -7746,7 +7746,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] Stack of drawings and sketches in the anime\nstyle, from a beginner.",
+        "description": "\\I[147] Pila de dibujos y bocetos en estilo anime,\nde un principiante.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1042,
@@ -7772,7 +7772,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] An ornate rosewood box full of bits and bobs.\nPretty stones, buttons and even some gemstones.",
+        "description": "\\I[147] Una caja ornamentada de palo de rosa llena de chucherías.\nPiedras bonitas, botones e incluso algunas gemas.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1056,
@@ -7798,7 +7798,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A collectible, actually.",
+        "description": "\\I[147] Un coleccionable, de hecho.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1057,
@@ -7824,12 +7824,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A spooky spirit board to contact the dead...",
+        "description": "\\I[147] Una tabla espiritual espeluznante para contactar a los muertos...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1058,
         "itypeId": 1,
-        "name": "Spirit Board",
+        "name": "Tabla Espiritual",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:20>",
         "occasion": 3,
         "price": 30,
@@ -7850,12 +7850,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A small puzzle cube. You know the one.",
+        "description": "\\I[147] Un pequeño cubo de rompecabezas. Ya sabes cuál.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1072,
         "itypeId": 1,
-        "name": "Puzzle Cube",
+        "name": "Cubo de Rompecabezas",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:10>",
         "occasion": 3,
         "price": 25,
@@ -7876,7 +7876,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A stack of comic books. Mostly hard-cover\nFranco-Belgian comics.",
+        "description": "\\I[147] Una pila de cómics. Principalmente cómics\nfranco-belgas de tapa dura.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1073,
@@ -7902,12 +7902,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A rare comic book in a sealed plastic sleeve.\nThere is a certificate of authenticity with it.",
+        "description": "\\I[147] Un cómic raro en una funda plástica sellada.\nHay un certificado de autenticidad con él.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1074,
         "itypeId": 1,
-        "name": "Rare Comic Book",
+        "name": "Cómic Raro",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:400>",
         "occasion": 3,
         "price": 200,
@@ -7928,12 +7928,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] An ornate-looking deck of tarot cards.",
+        "description": "\\I[147] Una baraja ornamentada de cartas de tarot.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1088,
         "itypeId": 1,
-        "name": "Tarot Deck",
+        "name": "Baraja de Tarot",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:20>",
         "occasion": 3,
         "price": 40,
@@ -7954,7 +7954,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A standard 52-card deck.",
+        "description": "\\I[147] Una baraja estándar de 52 cartas.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1089,
@@ -7980,7 +7980,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A small backgammon set. It's missing\na few tokens, which were replaced with pennies.",
+        "description": "\\I[147] Un pequeño juego de backgammon. Le faltan\nalgunas fichas, que fueron reemplazadas con centavos.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1090,
@@ -8006,12 +8006,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] An old chessboard with hand-carved\nchess pieces",
+        "description": "\\I[147] Un viejo tablero de ajedrez con piezas de ajedrez\ntalladas a mano",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1104,
         "itypeId": 1,
-        "name": "Old Chessboard",
+        "name": "Tablero de Ajedrez Viejo",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:50>",
         "occasion": 3,
         "price": 40,
@@ -8032,12 +8032,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A maze master's handbook for the tabletop\nRPG Mazes & Wizards.",
+        "description": "\\I[147] Un manual del maestro de laberintos para el\nRPG de mesa Laberintos y Magos.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1105,
         "itypeId": 1,
-        "name": "Mazes & Wizards",
+        "name": "Laberintos y Magos",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:20>",
         "occasion": 3,
         "price": 80,
@@ -8058,12 +8058,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] An old-fashioned porcelain tea set with\nfloral decorations.",
+        "description": "\\I[147] Un juego de té de porcelana a la antigua con\ndecoraciones florales.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1106,
         "itypeId": 1,
-        "name": "Tea Set",
+        "name": "Juego de Té",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:20>",
         "occasion": 3,
         "price": 70,
@@ -8084,12 +8084,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A junior league hockey trophy. Looks like\nthey got second place at the playoffs.",
+        "description": "\\I[147] Un trofeo de hockey de liga juvenil. Parece que\nquedaron en segundo lugar en los playoffs.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1120,
         "itypeId": 1,
-        "name": "Hockey Trophy",
+        "name": "Trofeo de Hockey",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:10>",
         "occasion": 3,
         "price": 80,
@@ -8110,7 +8110,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] An urn of ashes.\nCould throw it to blind all enemies.",
+        "description": "\\I[147] Una urna de cenizas.\nPodrías lanzarla para cegar a todos los enemigos.",
         "effects": [
             {
                 "code": 21,
@@ -8122,7 +8122,7 @@
         "hitType": 0,
         "iconIndex": 1121,
         "itypeId": 1,
-        "name": "Grandma's Urn",
+        "name": "Urna de la Abuela",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:10>",
         "occasion": 1,
         "price": 50,
@@ -8143,7 +8143,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] An old family photo album. Baby pictures,\ngraduation pictures, travel photos.",
+        "description": "\\I[147] Un viejo álbum de fotos familiares. Fotos de bebés,\nfotos de graduación, fotos de viajes.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1122,
@@ -8169,12 +8169,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] An old picture of a man in his fifties\nwearing a melon hat. Set in a decorated wooden frame.",
+        "description": "\\I[147] Una vieja foto de un hombre de unos cincuenta años\nusando un sombrero de melón. Puesta en un marco de madera decorado.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1136,
         "itypeId": 1,
-        "name": "Old Picture",
+        "name": "Imagen Vieja",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:8>",
         "occasion": 3,
         "price": 30,
@@ -8195,12 +8195,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] Some valuable-looking ornate silverware in a\nwooden box.",
+        "description": "\\I[147] Cubiertos ornamentados de aspecto valioso en una\ncaja de madera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
         "itypeId": 1,
-        "name": "Silverware Box",
+        "name": "Caja de Cubiertos",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:30>",
         "occasion": 3,
         "price": 80,
@@ -8221,12 +8221,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A big album of postage stamps. They're\nslightly water damaged.",
+        "description": "\\I[147] Un gran álbum de estampillas postales. Están\nligeramente dañadas por agua.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1138,
         "itypeId": 1,
-        "name": "Stamp Collection",
+        "name": "Colección de Estampillas",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:60>",
         "occasion": 3,
         "price": 120,
@@ -8247,7 +8247,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A small decorative box filled with seashells.",
+        "description": "\\I[147] Una pequeña caja decorativa llena de conchas marinas.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1152,
@@ -8273,12 +8273,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] An elegant little musical box decorated\nwith pretty stones.",
+        "description": "\\I[147] Una elegante cajita musical decorada\ncon lindas piedras.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1152,
         "itypeId": 1,
-        "name": "Musical Box",
+        "name": "Caja Musical",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:120>",
         "occasion": 3,
         "price": 120,
@@ -8299,7 +8299,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A small wooden statuette of an elephant.",
+        "description": "\\I[147] Una pequeña estatuilla de madera de un elefante.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1153,
@@ -8325,12 +8325,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A decorative lamp filled with dancing bubbles\nof wax.",
+        "description": "\\I[147] Una lámpara decorativa llena de burbujas danzantes\nde cera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1140,
         "itypeId": 1,
-        "name": "Kitsch Lamp",
+        "name": "Lámpara Kitsch",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:10>",
         "occasion": 3,
         "price": 30,
@@ -8351,7 +8351,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A big coin collection. You could take the\ncoins inside to use in a vending machine.",
+        "description": "\\I[147] Una gran colección de monedas. Podrías tomar las\nmonedas de adentro para usar en una máquina expendedora.",
         "effects": [
             {
                 "code": 44,
@@ -8384,7 +8384,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A beaver carved from a large piece of\nsoapstone.",
+        "description": "\\I[147] Un castor tallado de una gran pieza de\npiedra de jabón.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1043,
@@ -8410,12 +8410,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A very poor taxidermy job. It looks awful.\n",
+        "description": "\\I[147] Un trabajo de taxidermia muy pobre. Se ve horrible.\n",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1044,
         "itypeId": 1,
-        "name": "Taxidermy Dog",
+        "name": "Perro Disecado",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:10>",
         "occasion": 3,
         "price": 50,
@@ -8436,12 +8436,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A positively monstrous taxidermy job on\nan eagle.",
+        "description": "\\I[147] Un trabajo de taxidermia positivamente monstruoso en\nun águila.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1045,
         "itypeId": 1,
-        "name": "Taxidermy Eagle",
+        "name": "Águila Disecada",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:10>",
         "occasion": 3,
         "price": 30,
@@ -8462,12 +8462,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A bit of rogue taxidermy. It has bits\nof fish, rodent and lizard. Looks horrifying.",
+        "description": "\\I[147] Un poco de taxidermia irregular. Tiene pedazos\nde pez, roedor y lagarto. Se ve horroroso.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1059,
         "itypeId": 1,
-        "name": "Taxidermy Creature",
+        "name": "Criatura Disecada",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:50>",
         "occasion": 3,
         "price": 20,
@@ -8488,12 +8488,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A fairly realistic-looking taxidermy squirrel.\n",
+        "description": "\\I[147] Una ardilla disecada de aspecto bastante realista.\n",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1062,
         "itypeId": 1,
-        "name": "Taxidermy Squirrel",
+        "name": "Ardilla Disecada",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:60>",
         "occasion": 3,
         "price": 50,
@@ -8514,7 +8514,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A valuable-looking ceramic beer stein.",
+        "description": "\\I[147] Una jarra de cerveza de cerámica de aspecto valioso.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1061,
@@ -8540,12 +8540,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A collection of monthly magazines.",
+        "description": "\\I[147] Una colección de revistas mensuales.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1075,
         "itypeId": 1,
-        "name": "Stack of Magazines",
+        "name": "Pila de Revistas",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:60>",
         "occasion": 3,
         "price": 30,
@@ -8566,7 +8566,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A stash of magazines. The pages are stuck\ntogether.",
+        "description": "\\I[147] Un alijo de revistas. Las páginas están pegadas\nentre sí.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1076,
@@ -8592,12 +8592,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A handbag full of toiletries and other\npersonal effects.",
+        "description": "\\I[147] Un bolso de mano lleno de artículos de tocador y otros\nefectos personales.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1077,
         "itypeId": 1,
-        "name": "Handbag",
+        "name": "Bolso de Mano",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:40>",
         "occasion": 3,
         "price": 60,
@@ -8618,12 +8618,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A set of vintage wood-paneled speakers.",
+        "description": "\\I[147] Un conjunto de altavoces vintage con paneles de madera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1091,
         "itypeId": 1,
-        "name": "Old Speakers",
+        "name": "Altavoces Viejos",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:20>",
         "occasion": 3,
         "price": 40,
@@ -8644,12 +8644,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A stack of old manga. Mostly from one\nseries you dont recognize.",
+        "description": "\\I[147] Una pila de manga viejos. Principalmente de una\nserie que no reconoces.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1073,
         "itypeId": 1,
-        "name": "Manga Pile",
+        "name": "Pila de Manga",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:40>",
         "occasion": 3,
         "price": 60,
@@ -8670,12 +8670,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] An old game console. You played one like\nthis as a kid.",
+        "description": "\\I[147] Una vieja consola de juegos. Jugaste una como\nesta cuando eras niño.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1093,
         "itypeId": 1,
-        "name": "Old Game Console",
+        "name": "Consola de Juegos Vieja",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:20>",
         "occasion": 3,
         "price": 70,
@@ -8696,12 +8696,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A very old game console. The controllers\nresemble TV remotes.",
+        "description": "\\I[147] Una consola de juegos muy vieja. Los controles\nse asemejan a controles remotos de TV.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1107,
         "itypeId": 1,
-        "name": "Vintage Game Console",
+        "name": "Consola de Juegos Vintage",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:60>",
         "occasion": 3,
         "price": 90,
@@ -8722,12 +8722,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A big collection of hockey cards.",
+        "description": "\\I[147] Una gran colección de tarjetas de hockey.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1108,
         "itypeId": 1,
-        "name": "Hockey Cards",
+        "name": "Tarjetas de Hockey",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:80>",
         "occasion": 3,
         "price": 140,
@@ -8748,7 +8748,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A small baseball card collection. Hockey\ncards are more popular here.",
+        "description": "\\I[147] Una pequeña colección de tarjetas de béisbol. Las tarjetas de hockey\nson más populares aquí.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1109,
@@ -8774,12 +8774,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] Old vinyl records. Seem to be in good\ncondition.",
+        "description": "\\I[147] Viejos discos de vinilo. Parecen estar en buenas\ncondiciones.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1123,
         "itypeId": 1,
-        "name": "Old Records",
+        "name": "Discos Viejos",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:60>",
         "occasion": 3,
         "price": 75,
@@ -8800,12 +8800,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] A bunch of old music CDs.",
+        "description": "\\I[147] Un montón de CDs de música viejos.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1124,
         "itypeId": 1,
-        "name": "Old CDs",
+        "name": "CDs Viejos",
         "note": "<WD_Items: valuables gift>\n<appraiseVal:10>",
         "occasion": 3,
         "price": 32,
@@ -8826,7 +8826,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\I[147] Handheld gaming console. There is a game\ninserted called \"Catafalque GK\". It still works.",
+        "description": "\\I[147] Consola de juegos portátil. Hay un juego\ninsertado llamado \"Catafalque GK\". Aún funciona.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1125,
@@ -8904,7 +8904,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The face reads \\V[12].",
+        "description": "La carátula marca \\V[12].",
         "effects": [],
         "hitType": 0,
         "iconIndex": 810,
@@ -8982,7 +8982,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Papineau's empty lunchbox. Will be replenished\nafter resting.",
+        "description": "Lonchera vacía de Papineau. Se rellenará\ndespués de descansar.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 926,
@@ -9008,12 +9008,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Papineau can use this to take a break.",
+        "description": "Papineau puede usar esto para tomar un descanso.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 927,
         "itypeId": 1,
-        "name": "Papineau's Lunch",
+        "name": "Almuerzo de Papineau",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -9039,7 +9039,7 @@
         "hitType": 0,
         "iconIndex": 522,
         "itypeId": 2,
-        "name": "Old Mail",
+        "name": "Correo Viejo",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -9065,7 +9065,7 @@
         "hitType": 0,
         "iconIndex": 567,
         "itypeId": 1,
-        "name": "Ice Melt Salt",
+        "name": "Sal Derretidora de Hielo",
         "note": "",
         "occasion": 3,
         "price": 10,
@@ -9091,7 +9091,7 @@
         "hitType": 0,
         "iconIndex": 566,
         "itypeId": 1,
-        "name": "Length of Rope",
+        "name": "Trozo de Cuerda",
         "note": "",
         "occasion": 3,
         "price": 20,
@@ -9112,12 +9112,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The key leaves dark smudges on your hands.",
+        "description": "La llave deja manchas oscuras en tus manos.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 482,
         "itypeId": 2,
-        "name": "Old Rusty Key",
+        "name": "Llave Vieja Oxidada",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -9164,7 +9164,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This mine is no longer a threat.",
+        "description": "Esta mina ya no es una amenaza.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
@@ -9190,7 +9190,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Old military tags from the war.",
+        "description": "Placas militares viejas de la guerra.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1162,
@@ -9216,12 +9216,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Supply crate found in a hidden cache.",
+        "description": "Caja de suministros encontrada en un escondite.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 401,
         "itypeId": 2,
-        "name": "Supply Crate",
+        "name": "Caja de Suministros",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -9247,7 +9247,7 @@
         "hitType": 0,
         "iconIndex": 482,
         "itypeId": 2,
-        "name": "Painter's Key",
+        "name": "Llave del Pintor",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -9273,7 +9273,7 @@
         "hitType": 0,
         "iconIndex": 497,
         "itypeId": 2,
-        "name": "Stained Key",
+        "name": "Llave Manchada",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -9299,7 +9299,7 @@
         "hitType": 0,
         "iconIndex": 482,
         "itypeId": 2,
-        "name": "Telescope Room Key",
+        "name": "Llave de la Sala del Telescopio",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -9325,7 +9325,7 @@
         "hitType": 0,
         "iconIndex": 529,
         "itypeId": 2,
-        "name": "Twilight Valve",
+        "name": "Válvula del Crepúsculo",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -9351,7 +9351,7 @@
         "hitType": 0,
         "iconIndex": 560,
         "itypeId": 2,
-        "name": "Midnight Valve",
+        "name": "Válvula de Medianoche",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -9403,7 +9403,7 @@
         "hitType": 0,
         "iconIndex": 562,
         "itypeId": 2,
-        "name": "Hadal Valve",
+        "name": "Válvula Hadal",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -9528,12 +9528,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Keychain with the branding of a convenience store.",
+        "description": "Llavero con la marca de una tienda de conveniencia.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 481,
         "itypeId": 2,
-        "name": "Store Key",
+        "name": "Llave de la Tienda",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -9580,12 +9580,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The key ring of a janitor. Should open janitor\nclosets all over the building.",
+        "description": "El llavero de un conserje. Debería abrir los armarios de conserje\npor todo el edificio.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 480,
         "itypeId": 2,
-        "name": "Janitor Key Ring",
+        "name": "Llavero del Conserje",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -9606,7 +9606,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Key for a coffee shop on the building's ground level.",
+        "description": "Llave para una cafetería en la planta baja del edificio.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 482,
@@ -9741,7 +9741,7 @@
         "hitType": 0,
         "iconIndex": 464,
         "itypeId": 2,
-        "name": "Rusty Old Key",
+        "name": "Llave Vieja Oxidada",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -9762,12 +9762,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Key for a coffee shop on the building's ground level.",
+        "description": "Llave para una cafetería en la planta baja del edificio.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "Security Key",
+        "name": "Llave de Seguridad",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -9788,12 +9788,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It feels strangely heavy.",
+        "description": "Se siente extrañamente pesado.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 497,
         "itypeId": 2,
-        "name": "Roof Access Key",
+        "name": "Llave de Acceso al Techo",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -9866,12 +9866,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Some elegant stationery from the post office.",
+        "description": "Papelería elegante de la oficina de correos.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 522,
         "itypeId": 2,
-        "name": "Stationery",
+        "name": "Papelería",
         "note": "",
         "occasion": 3,
         "price": 10,
@@ -9949,7 +9949,7 @@
         "hitType": 0,
         "iconIndex": 449,
         "itypeId": 1,
-        "name": "Simple Key",
+        "name": "Llave Simple",
         "note": "",
         "occasion": 3,
         "price": 50,
@@ -9970,7 +9970,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strange disc with a picture of the Sun.",
+        "description": "Disco extraño con una imagen del Sol.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 451,
@@ -9996,12 +9996,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strange disc with a picture of the planet Mercury.",
+        "description": "Disco extraño con una imagen del planeta Mercurio.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 452,
         "itypeId": 2,
-        "name": "Mercury Disc",
+        "name": "Disco de Mercurio",
         "note": "<WD_Items: discObj>",
         "occasion": 3,
         "price": 0,
@@ -10022,12 +10022,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strange disc with a picture of the planet Venus.",
+        "description": "Disco extraño con una imagen del planeta Venus.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 453,
         "itypeId": 2,
-        "name": "Venus Disc",
+        "name": "Disco de Venus",
         "note": "<WD_Items: discObj>",
         "occasion": 3,
         "price": 0,
@@ -10048,7 +10048,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strange disc with a picture of the planet Earth.",
+        "description": "Disco extraño con una imagen del planeta Tierra.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 467,
@@ -10074,12 +10074,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strange disc with a picture of the planet Mars.",
+        "description": "Disco extraño con una imagen del planeta Marte.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 468,
         "itypeId": 2,
-        "name": "Mars Disc",
+        "name": "Disco de Marte",
         "note": "<WD_Items: discObj>",
         "occasion": 3,
         "price": 0,
@@ -10100,12 +10100,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strange disc with a picture of the planet Jupiter.",
+        "description": "Disco extraño con una imagen del planeta Júpiter.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 469,
         "itypeId": 2,
-        "name": "Jupiter Disc",
+        "name": "Disco de Júpiter",
         "note": "<WD_Items: discObj>",
         "occasion": 3,
         "price": 0,
@@ -10126,12 +10126,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strange disc with a picture of the planet Saturn.",
+        "description": "Disco extraño con una imagen del planeta Saturno.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 483,
         "itypeId": 2,
-        "name": "Saturn Disc",
+        "name": "Disco de Saturno",
         "note": "<WD_Items: discObj>",
         "occasion": 3,
         "price": 0,
@@ -10152,12 +10152,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strange disc with a picture of the planet Uranus.",
+        "description": "Disco extraño con una imagen del planeta Urano.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 484,
         "itypeId": 2,
-        "name": "Uranus Disc",
+        "name": "Disco de Urano",
         "note": "<WD_Items: discObj>",
         "occasion": 3,
         "price": 0,
@@ -10178,12 +10178,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strange disc with a picture of the planet Neptune.",
+        "description": "Disco extraño con una imagen del planeta Neptuno.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 485,
         "itypeId": 2,
-        "name": "Neptune Disc",
+        "name": "Disco de Neptuno",
         "note": "<WD_Items: discObj>",
         "occasion": 3,
         "price": 0,
@@ -10204,12 +10204,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strange disc with a picture of the dwarf planet\nPluto.",
+        "description": "Disco extraño con una imagen del planeta enano\nPlutón.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 499,
         "itypeId": 2,
-        "name": "Pluto Disc",
+        "name": "Disco de Plutón",
         "note": "<WD_Items: discObj>",
         "occasion": 3,
         "price": 0,
@@ -10230,12 +10230,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strange disc with a blank center.",
+        "description": "Disco extraño con el centro en blanco.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 500,
         "itypeId": 2,
-        "name": "Void Disc",
+        "name": "Disco del Vacío",
         "note": "<WD_Items: discObj>",
         "occasion": 3,
         "price": 0,
@@ -10256,12 +10256,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strange disc with a negative image imprinted on.\nYou can't make out anything by looking at it.",
+        "description": "Disco extraño con una imagen negativa impresa.\nNo puedes distinguir nada al mirarlo.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 500,
         "itypeId": 2,
-        "name": "Negative Disc",
+        "name": "Disco Negativo",
         "note": "<WD_Items: discObj>",
         "occasion": 3,
         "price": 0,
@@ -10308,7 +10308,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "There is a cute little guinea pig in the cage.\nSeems to have plenty of food and water in there.",
+        "description": "Hay un lindo conejillo de indias en la jaula.\nParece tener mucha comida y agua ahí dentro.",
         "effects": [
             {
                 "code": 44,
@@ -10320,7 +10320,7 @@
         "hitType": 0,
         "iconIndex": 470,
         "itypeId": 2,
-        "name": "Guinea Pig",
+        "name": "Conejillo de Indias",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -10341,7 +10341,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This is a blank tape from the security room.",
+        "description": "Esta es una cinta en blanco del cuarto de seguridad.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 471,
@@ -10419,12 +10419,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Paper treated with silver halide crystals to darken\nafter exposure to light and development.",
+        "description": "Papel tratado con cristales de haluro de plata para oscurecerse\ndespués de la exposición a la luz y el revelado.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 454,
         "itypeId": 2,
-        "name": "Photo Paper",
+        "name": "Papel Fotográfico",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -10445,7 +10445,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Paper that was exposed to something. Will develop\ninto a photo if developed in a dark room.",
+        "description": "Papel que fue expuesto a algo. Se convertirá en\nuna foto si se revela en un cuarto oscuro.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 455,
@@ -10653,7 +10653,7 @@
         "hitType": 0,
         "iconIndex": 488,
         "itypeId": 2,
-        "name": "Loose Manuscript",
+        "name": "Manuscrito Suelto",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -10674,7 +10674,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Terrifying image. Your heart stops every time you\nglance at it.",
+        "description": "Imagen aterradora. Tu corazón se detiene cada vez que\nla miras.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1085,
@@ -10705,7 +10705,7 @@
         "hitType": 0,
         "iconIndex": 456,
         "itypeId": 2,
-        "name": "Portrait",
+        "name": "Retrato",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -10939,7 +10939,7 @@
         "hitType": 0,
         "iconIndex": 516,
         "itypeId": 2,
-        "name": "Intestines",
+        "name": "Intestinos",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -10960,7 +10960,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It seems like a human brain.",
+        "description": "Parece un cerebro humano.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 517,
@@ -11017,7 +11017,7 @@
         "hitType": 0,
         "iconIndex": 563,
         "itypeId": 2,
-        "name": "Rose",
+        "name": "Rosa",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -11069,7 +11069,7 @@
         "hitType": 0,
         "iconIndex": 222,
         "itypeId": 2,
-        "name": "Torn-Off Face",
+        "name": "Rostro Arrancado",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -11090,12 +11090,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Will open most simple locks.",
+        "description": "Abrirá la mayoría de las cerraduras simples.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "Lockpicks",
+        "name": "Ganzúas",
         "note": "",
         "occasion": 3,
         "price": 50,
@@ -11227,12 +11227,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Taken from us too soon... there must be a way.",
+        "description": "Nos fue arrebatado demasiado pronto... debe haber una manera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 445,
         "itypeId": 2,
-        "name": "Phillippe's Remains",
+        "name": "Restos de Phillippe",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -11305,12 +11305,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Special key to open up a vending machine.",
+        "description": "Llave especial para abrir una máquina expendedora.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 482,
         "itypeId": 2,
-        "name": "Vending Machine Key",
+        "name": "Llave de la Máquina Expendedora",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -11331,12 +11331,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The Frederic piece is resting after some hard work.",
+        "description": "La pieza de Frederic está descansando después de un trabajo duro.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 334,
         "itypeId": 1,
-        "name": "Tired Medic-in-a-Jar",
+        "name": "Médico Cansado en un Frasco",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -11409,12 +11409,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The hairless tail of a dead rat.",
+        "description": "La cola sin pelo de una rata muerta.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 905,
         "itypeId": 1,
-        "name": "Rat Tail",
+        "name": "Cola de Rata",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -11487,12 +11487,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "On closer inspection, there is a price tag on it.\nIt might be a halloween decoration.",
+        "description": "Al inspeccionarla más de cerca, tiene una etiqueta de precio.\nPodría ser una decoración de Halloween.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 568,
         "itypeId": 2,
-        "name": "Shrunken Head",
+        "name": "Cabeza Reducida",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -11518,7 +11518,7 @@
         "hitType": 0,
         "iconIndex": 541,
         "itypeId": 1,
-        "name": "Plumbing Tools",
+        "name": "Herramientas de Plomería",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -11570,7 +11570,7 @@
         "hitType": 0,
         "iconIndex": 535,
         "itypeId": 1,
-        "name": "Potting Soil",
+        "name": "Tierra para Macetas",
         "note": "",
         "occasion": 3,
         "price": 10,
@@ -11596,7 +11596,7 @@
         "hitType": 0,
         "iconIndex": 904,
         "itypeId": 1,
-        "name": "Worm Egg",
+        "name": "Huevo de Gusano",
         "note": "",
         "occasion": 3,
         "price": 5,
@@ -11643,12 +11643,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Jasper had this key. It is stained with some kind of\nsquishy goop.",
+        "description": "Jasper tenía esta llave. Está manchada con algún tipo de\nbaba viscosa.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 509,
         "itypeId": 2,
-        "name": "Stained Key",
+        "name": "Llave Manchada",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -11695,12 +11695,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Pieces of a small telescope found in the\nplanetarium of Apartment 12.",
+        "description": "Piezas de un pequeño telescopio encontrado en el\nplanetario del Apartamento 12.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 494,
         "itypeId": 2,
-        "name": "Telescope Pieces",
+        "name": "Piezas del Telescopio",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -11752,7 +11752,7 @@
         "hitType": 0,
         "iconIndex": 465,
         "itypeId": 2,
-        "name": "Small Red Key",
+        "name": "Llave Roja Pequeña",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -11778,7 +11778,7 @@
         "hitType": 0,
         "iconIndex": 1179,
         "itypeId": 2,
-        "name": "Phone",
+        "name": "Teléfono",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -11804,7 +11804,7 @@
         "hitType": 0,
         "iconIndex": 473,
         "itypeId": 2,
-        "name": "Last Will",
+        "name": "Último Testamento",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -11830,7 +11830,7 @@
         "hitType": 0,
         "iconIndex": 474,
         "itypeId": 2,
-        "name": "Old Tape",
+        "name": "Cinta Vieja",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -11856,7 +11856,7 @@
         "hitType": 0,
         "iconIndex": 475,
         "itypeId": 2,
-        "name": "Old Photograph",
+        "name": "Fotografía Vieja",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -11929,12 +11929,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Long, needle-shaped key with an eyelike design at\nits base. It subtly shifts in your hand.",
+        "description": "Llave larga con forma de aguja y un diseño similar a un ojo en\nsu base. Se mueve sutilmente en tu mano.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 565,
         "itypeId": 2,
-        "name": "Iris Key",
+        "name": "Llave de Iris",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -12059,12 +12059,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Nothing at all!",
+        "description": "¡Absolutamente nada!",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 3,
-        "name": "Nothing",
+        "name": "Nada",
         "note": "<WD_Items: nothing>",
         "occasion": 3,
         "price": 0,
@@ -12168,7 +12168,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "Jennifer's Key",
+        "name": "Llave de Jennifer",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -12345,12 +12345,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] Very bloody beat-em-up style game with\na dark fantasy theme.",
+        "description": "[Videojuego] Juego estilo beat-em-up muy sangriento con\nun tema de fantasía oscura.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 592,
         "itypeId": 3,
-        "name": "Wake the Blood Knight",
+        "name": "Despierta al Caballero de Sangre",
         "note": "<WD_Items:videogame>",
         "occasion": 3,
         "price": 60,
@@ -12371,12 +12371,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] A peculiar game where you manage a\ncircle of hell where wizards are punished.",
+        "description": "[Videojuego] Un juego peculiar donde administras un\ncírculo del infierno donde los magos son castigados.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 593,
         "itypeId": 3,
-        "name": "Wizards Hell: Arcane Tears",
+        "name": "Infierno de Magos: Lágrimas Arcanas",
         "note": "<WD_Items:videogame>",
         "occasion": 3,
         "price": 60,
@@ -12397,7 +12397,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] Mascot platformer. Very easy, but fun.\nYou played Jumplad a lot as a kid.",
+        "description": "[Videojuego] Plataformas con mascota. Muy fácil, pero divertido.\nJugaste mucho Jumplad cuando eras niño.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 594,
@@ -12423,7 +12423,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] Mascot platformer sequel. You heard this\none is very different from the others.",
+        "description": "[Videojuego] Secuela de plataformas con mascota. Escuchaste que este\nes muy diferente de los otros.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 608,
@@ -12449,7 +12449,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] Famously difficult platformer with\na horror theme, set in trap-filled catacombs.",
+        "description": "[Videojuego] Plataformas famosamente difícil con\ntema de horror, ambientado en catacumbas llenas de trampas.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 609,
@@ -12475,12 +12475,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] Strange sailing game. Seems simple\nbut has a huge cult following.",
+        "description": "[Videojuego] Extraño juego de navegación. Parece simple\npero tiene un gran culto de seguidores.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 610,
         "itypeId": 3,
-        "name": "Honko's Grand Journey",
+        "name": "El Gran Viaje de Honko",
         "note": "<WD_Items:videogame>",
         "occasion": 3,
         "price": 60,
@@ -12501,7 +12501,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] Racing game with vehicular combat.",
+        "description": "[Videojuego] Juego de carreras con combate vehicular.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 595,
@@ -12527,12 +12527,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] Scary first-person dungeon crawl with\nlots of monsters. Based on a tabletop RPG setting.",
+        "description": "[Videojuego] Rastreo de mazmorras en primera persona aterrador con\nmuchos monstruos. Basado en un escenario de RPG de mesa.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 596,
         "itypeId": 3,
-        "name": "Wraithscourge",
+        "name": "Azote Espectral",
         "note": "<WD_Items:videogame>",
         "occasion": 3,
         "price": 60,
@@ -12553,12 +12553,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] Massacre Princess Catholicon is the full\nname. A very long JRPG based on a popular anime.",
+        "description": "[Videojuego] Princesa Masacre Catholicon es el nombre\ncompleto. Un JRPG muy largo basado en un anime popular.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 597,
         "itypeId": 3,
-        "name": "Massacre Princess",
+        "name": "Princesa Masacre",
         "note": "<WD_Items:videogame>",
         "occasion": 3,
         "price": 60,
@@ -12579,12 +12579,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] War-themed first person shooter with\nrealistic violence and dubious politics.",
+        "description": "[Videojuego] Tirador en primera persona con temática de guerra con\nviolencia realista y política dudosa.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 611,
         "itypeId": 3,
-        "name": "Kill to Shoot",
+        "name": "Mata para Disparar",
         "note": "<WD_Items:videogame>",
         "occasion": 3,
         "price": 60,
@@ -12605,7 +12605,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] A top-down squad tactics game with\nlittle ant people as soldiers.",
+        "description": "[Videojuego] Un juego táctico de escuadrones de vista superior con\npequeñas personas hormiga como soldados.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 612,
@@ -12631,7 +12631,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] A more complex RTS sequel to Myrmidon\nwhere you conquer a backyard with military tactics.",
+        "description": "[Videojuego] Una secuela RTS más compleja de Myrmidon\ndonde conquistas un patio trasero con tácticas militares.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 613,
@@ -12657,7 +12657,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] The scariest game you ever played.\nIt gave you nightmares as a kid.",
+        "description": "[Videojuego] El juego más aterrador que jamás jugaste.\nTe dio pesadillas cuando eras niño.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 598,
@@ -12683,7 +12683,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] A surprisingly difficult puzzle game\nthat tests your memory. Cute, forgetful little frogs.",
+        "description": "[Videojuego] Un juego de rompecabezas sorprendentemente difícil\nque pone a prueba tu memoria. Lindas ranitas olvidadizas.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 599,
@@ -12709,7 +12709,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] An infamously violent game that was\nbanned in several countries, including this one.",
+        "description": "[Videojuego] Un juego infamemente violento que fue\nprohibido en varios países, incluyendo este.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 600,
@@ -12735,7 +12735,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] A cooking game with a cute octopus\nmascot. A lot of multitasking in a kitchen.",
+        "description": "[Videojuego] Un juego de cocina con una linda mascota\nde pulpo. Mucha multitarea en una cocina.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 614,
@@ -12761,12 +12761,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] A long haul trucking simulator in\nspace. You can play this for a long time.",
+        "description": "[Videojuego] Un simulador de camiones de largo recorrido en\nel espacio. Puedes jugar esto por mucho tiempo.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 615,
         "itypeId": 3,
-        "name": "Space Truckerz",
+        "name": "Camioneros Espaciales",
         "note": "<WD_Items:videogame>",
         "occasion": 3,
         "price": 60,
@@ -12787,12 +12787,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] A football game where all players are\nreptiles and amphibians. Some dinosaurs too.",
+        "description": "[Videojuego] Un juego de fútbol donde todos los jugadores son\nreptiles y anfibios. Algunos dinosaurios también.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 616,
         "itypeId": 3,
-        "name": "Reptile Football",
+        "name": "Fútbol de Reptiles",
         "note": "<WD_Items:videogame>",
         "occasion": 3,
         "price": 60,
@@ -12813,7 +12813,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] Auntie Wilma's Crossword Challenge.\nIs this a bootleg?",
+        "description": "[Videojuego] Desafío de Crucigramas de la Tía Wilma.\n¿Es esto pirata?",
         "effects": [],
         "hitType": 0,
         "iconIndex": 601,
@@ -12839,12 +12839,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Video Game] There is no label on this one. Must\nhave been scratched off by a kid. No idea what it is.",
+        "description": "[Videojuego] No hay etiqueta en este. Debe\nhaber sido raspada por un niño. No tengo idea de qué es.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 602,
         "itypeId": 3,
-        "name": "Unlabeled Cartridge",
+        "name": "Cartucho sin Etiqueta",
         "note": "<WD_Items:videogame>",
         "occasion": 3,
         "price": 10,
@@ -14581,7 +14581,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Still a challenge, but more forgiving. Game autosaves\nas you explore and you can save anytime, anywhere.",
+        "description": "Aún es un desafío, pero más indulgente. El juego se guarda automáticamente\nmientras exploras y puedes guardar en cualquier momento y lugar.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
@@ -14607,12 +14607,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The full survival horror experience. Resources are\nmore scarce and battles more fierce.",
+        "description": "La experiencia completa de horror de supervivencia. Los recursos son\nmás escasos y las batallas más feroces.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 4,
-        "name": "Survivor Mode",
+        "name": "Modo Superviviente",
         "note": "<WD_Items: gamemode>",
         "occasion": 3,
         "price": 0,
@@ -14633,12 +14633,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Intended for those who played before and want an extra\nchallenge. \\C[10]Not recommended for your first playthrough.",
+        "description": "Destinado a quienes ya jugaron y quieren un desafío extra.\n\\C[10]No recomendado para tu primera partida.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 4,
-        "name": "\\C[10]Cursed Mode",
+        "name": "\\C[10]Modo Maldito",
         "note": "<WD_Items: gamemode>",
         "occasion": 3,
         "price": 0,
@@ -14659,7 +14659,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Normal mode + high starting level, boosted stats,\nstarting items, gold",
+        "description": "Modo normal + nivel inicial alto, estadísticas mejoradas,\nítems iniciales, oro",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
@@ -14685,12 +14685,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Normal mode + high starting level, boosted stats,\nstarting items, gold",
+        "description": "Modo normal + nivel inicial alto, estadísticas mejoradas,\nítems iniciales, oro",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 4,
-        "name": "Normal Mode TESTER",
+        "name": "PROBADOR Modo Normal",
         "note": "<WD_Items: gamemode>",
         "occasion": 3,
         "price": 0,
@@ -14711,12 +14711,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Intended for people who beat the game before and\nwant an extra challenge. (not available yet)",
+        "description": "Destinado a personas que ya completaron el juego y\nquieren un desafío extra. (aún no disponible)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 4,
-        "name": "\\C[10]Hard Mode Cheats",
+        "name": "\\C[10]Trucos de Modo Difícil",
         "note": "<WD_Items: gamemode>",
         "occasion": 3,
         "price": 0,
@@ -14924,7 +14924,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Return To Title Screen",
+        "name": "Volver a la Pantalla de Título",
         "note": "<WD_Items: gamemode>",
         "occasion": 0,
         "price": 0,
@@ -15985,7 +15985,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Medicell + Cloth",
+        "description": "Medicell + Tela",
         "effects": [],
         "hitType": 0,
         "iconIndex": 323,
@@ -16146,7 +16146,7 @@
         "hitType": 0,
         "iconIndex": 325,
         "itypeId": 4,
-        "name": "Botiquín de Primeros Auxilios",
+        "name": "Kit de Primeros Auxilios",
         "note": "<WD_Items:recipe>\n<ing1:8> <ing2:13>\n<res:9> <amnt:1>",
         "occasion": 0,
         "price": 0,
@@ -16167,12 +16167,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Vinegar + Enzyme",
+        "description": "Vinagre + Enzima",
         "effects": [],
         "hitType": 0,
         "iconIndex": 371,
         "itypeId": 4,
-        "name": "Smelling Salts",
+        "name": "Sales de Olor",
         "note": "<WD_Items:recipe>\n<ing1:159> <ing2:161>\n<res:12> <amnt:1>",
         "occasion": 0,
         "price": 0,
@@ -16193,7 +16193,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Vinegar + Medicell",
+        "description": "Vinagre + Medicell",
         "effects": [],
         "hitType": 0,
         "iconIndex": 357,
@@ -16224,7 +16224,7 @@
         "hitType": 0,
         "iconIndex": 407,
         "itypeId": 4,
-        "name": "Heal Spray",
+        "name": "Spray Curativo",
         "note": "<WD_Items:recipe>\n<ing1:8> <ing2:158>\n<res:2> <amnt:1>",
         "occasion": 0,
         "price": 0,
@@ -16297,12 +16297,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Mushroom + Medicell",
+        "description": "Hongo + Medicell",
         "effects": [],
         "hitType": 0,
         "iconIndex": 371,
         "itypeId": 4,
-        "name": "Medication",
+        "name": "Medicamento",
         "note": "<WD_Items:recipe>\n<ing1:165> <ing2:172>\n<res:14> <amnt:1>",
         "occasion": 0,
         "price": 0,
@@ -16375,7 +16375,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Vinegar + Purocare",
+        "description": "Vinagre + Purocare",
         "effects": [],
         "hitType": 0,
         "iconIndex": 375,
@@ -16505,7 +16505,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Klysox + Herbicide",
+        "description": "Klysox + Herbicida",
         "effects": [],
         "hitType": 0,
         "iconIndex": 363,
@@ -16536,7 +16536,7 @@
         "hitType": 0,
         "iconIndex": 363,
         "itypeId": 4,
-        "name": "Super Explosive",
+        "name": "Super Explosivo",
         "note": "<WD_Items:recipe>\n<ing1:160> <ing2:168>\n<res:79> <amnt:1>",
         "occasion": 0,
         "price": 0,
@@ -16640,7 +16640,7 @@
         "hitType": 0,
         "iconIndex": 426,
         "itypeId": 4,
-        "name": "Herbicide",
+        "name": "Herbicida",
         "note": "<WD_Items:recipe>\n<ing1:161> <ing2:167>\n<res:168> <amnt:1>",
         "occasion": 0,
         "price": 0,
@@ -16661,12 +16661,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Worm Juice + Gasoline",
+        "description": "Jugo de Gusano + Gasolina",
         "effects": [],
         "hitType": 0,
         "iconIndex": 415,
         "itypeId": 1,
-        "name": "Worm Bomb",
+        "name": "Bomba de Gusano",
         "note": "<WD_Items:recipe>\n<ing1:46> <ing2:172>\n<res:127> <amnt:1>",
         "occasion": 0,
         "price": 0,
@@ -16692,7 +16692,7 @@
         "hitType": 0,
         "iconIndex": 567,
         "itypeId": 4,
-        "name": "Ice Melt Salt",
+        "name": "Sal Derretidora de Hielo",
         "note": "<WD_Items:recipe>\n<ing1:44> <ing2:167>\n<res:286> <amnt:1>",
         "occasion": 0,
         "price": 0,
@@ -16765,12 +16765,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Worm Juice + Pale Fluid",
+        "description": "Jugo de Gusano + Fluido Pálido",
         "effects": [],
         "hitType": 0,
         "iconIndex": 399,
         "itypeId": 1,
-        "name": "Worm Perfume",
+        "name": "Perfume de Gusano",
         "note": "<WD_Items:recipe>\n<ing1:46> <ing2:147>\n<res:48> <amnt:1>",
         "occasion": 0,
         "price": 0,
@@ -16843,7 +16843,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Pale Fluid + Klysox",
+        "description": "Fluido Pálido + Klysox",
         "effects": [],
         "hitType": 0,
         "iconIndex": 380,
@@ -18845,12 +18845,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Very common marble. Could be used with a slingshot.",
+        "description": "Canica muy común. Podría usarse con una resortera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1012,
         "itypeId": 1,
-        "name": "Steel Marble",
+        "name": "Canica de Acero",
         "note": "",
         "occasion": 3,
         "price": 4,
@@ -18876,7 +18876,7 @@
         "hitType": 0,
         "iconIndex": 1013,
         "itypeId": 1,
-        "name": "Silver Marble",
+        "name": "Canica Plateada",
         "note": "",
         "occasion": 3,
         "price": 8,
@@ -18975,12 +18975,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Uncommon marble. Could be used with a slingshot.",
+        "description": "Canica poco común. Podría usarse con una resortera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1017,
         "itypeId": 1,
-        "name": "Red Wave Marble",
+        "name": "Canica de Ola Roja",
         "note": "",
         "occasion": 3,
         "price": 16,
@@ -19001,12 +19001,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Uncommon marble. Could be used with a slingshot.",
+        "description": "Canica poco común. Podría usarse con una resortera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1018,
         "itypeId": 1,
-        "name": "Jade Ribbon Marble",
+        "name": "Canica de Cinta de Jade",
         "note": "",
         "occasion": 3,
         "price": 16,
@@ -19027,12 +19027,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Uncommon marble. Could be used with a slingshot.",
+        "description": "Canica poco común. Podría usarse con una resortera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1019,
         "itypeId": 1,
-        "name": "Sunburst Marble",
+        "name": "Canica de Estallido Solar",
         "note": "",
         "occasion": 3,
         "price": 16,
@@ -19053,7 +19053,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Uncommon marble. Could be used with a slingshot.",
+        "description": "Canica poco común. Podría usarse con una resortera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1020,
@@ -19079,12 +19079,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Uncommon marble. Could be used with a slingshot.",
+        "description": "Canica poco común. Podría usarse con una resortera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1021,
         "itypeId": 1,
-        "name": "Striped Marble",
+        "name": "Canica Rayada",
         "note": "",
         "occasion": 3,
         "price": 16,
@@ -19131,12 +19131,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rare marble. Could be used with a slingshot.",
+        "description": "Canica rara. Podría usarse con una resortera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1028,
         "itypeId": 1,
-        "name": "Super Bouncer Marble",
+        "name": "Canica Super Rebotadora",
         "note": "",
         "occasion": 3,
         "price": 32,
@@ -19157,12 +19157,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rare marble. Could be used with a slingshot.",
+        "description": "Canica rara. Podría usarse con una resortera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1029,
         "itypeId": 1,
-        "name": "Yellow Slag Marble",
+        "name": "Canica de Escoria Amarilla",
         "note": "",
         "occasion": 3,
         "price": 32,
@@ -19183,12 +19183,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rare marble. Could be used with a slingshot.",
+        "description": "Canica rara. Podría usarse con una resortera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1030,
         "itypeId": 1,
-        "name": "Star Marble",
+        "name": "Canica Estrella",
         "note": "",
         "occasion": 3,
         "price": 32,
@@ -19209,7 +19209,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rare marble. Could be used with a slingshot.",
+        "description": "Canica rara. Podría usarse con una resortera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1031,
@@ -19235,7 +19235,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rare marble. Could be used with a slingshot.",
+        "description": "Canica rara. Podría usarse con una resortera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1032,
@@ -19287,12 +19287,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Ultra Rare marble. Could be used with a slingshot.",
+        "description": "Canica Ultra Rara. Podría usarse con una resortera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1033,
         "itypeId": 1,
-        "name": "Golden Marble",
+        "name": "Canica Dorada",
         "note": "",
         "occasion": 3,
         "price": 64,
@@ -19313,7 +19313,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Ultra Rare marble. Could be used with a slingshot.",
+        "description": "Canica Ultra Rara. Podría usarse con una resortera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1034,
@@ -19339,7 +19339,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Ultra Rare marble. Could be used with a slingshot.",
+        "description": "Canica Ultra Rara. Podría usarse con una resortera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1035,
@@ -19365,12 +19365,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Ultra Rare marble. Could be used with a slingshot.",
+        "description": "Canica Ultra Rara. Podría usarse con una resortera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1036,
         "itypeId": 1,
-        "name": "Void Marble",
+        "name": "Canica del Vacío",
         "note": "",
         "occasion": 3,
         "price": 64,
@@ -19391,12 +19391,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Ultra Rare marble. Could be used with a slingshot.",
+        "description": "Canica Ultra Rara. Podría usarse con una resortera.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1037,
         "itypeId": 1,
-        "name": "Rainbow Marble",
+        "name": "Canica Arcoíris",
         "note": "",
         "occasion": 3,
         "price": 64,
