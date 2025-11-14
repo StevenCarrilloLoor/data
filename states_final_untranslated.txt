@@ -1,0 +1,85 @@
+Estados sin traducir:
+============================================================
+Invulnerable
+Mosh Pit
+Rested
+Risk Taker
+Ritual
+Roach Shield
+RoachSchism
+Royal Decree
+Second Wind
+Seizures
+Smelly
+Song of Defense
+Song of Speed
+Song of Strength
+Song of Willpower
+Soothe
+Soulless
+Soulsteal
+Spinal Control
+Spineball
+Spore
+Spore Poison
+Stam Regen
+Stomach
+Strategy
+Swarm
+Swarm 1
+Swarm 2
+Swarm 3
+Taken
+Teething
+Tickle
+Time Stop
+Time Stop Immune
+Tough Love
+Unmade
+Unmasked
+Uterus
+Vulnerable
+Weakened
+Whip Entangle
+Wide Awake
+Wither
+Worm Elixer
+Worm Smell
+Wuss Out
+attack+100%
+attack+25%
+attack+50%
+attack-25%
+attackCount+1
+bossDeath
+defense+100%
+defense+25%
+defense+50%
+defense-25%
+disease affinity
+disease affinity+
+dmgOvrTimeResist
+dodge+10%
+dodge+20%
+dodge+40%
+giantRevolverReal
+gunResist+25%
+gunResist+50%
+gunResist+90%
+huskDefending
+lifeRegen+10%
+lifeRegen+15%
+lifeRegen+2%
+lifeRegen+5%
+markedEnemy
+maxLife+100%
+maxLife+25%
+maxLife+50%
+maxLife-25%
+permanentProtect
+physResist+25%
+physResist+50%
+physResist+90%
+prepare
+shielded
+usedTonic

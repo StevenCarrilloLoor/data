@@ -1,0 +1,188 @@
+Nombres de estados sin traducir:
+============================================================
+Broken Bones
+Bushwhacker
+Calm
+Catatonic
+CharmImmune
+CharmRes
+Cheered
+Chew Toy
+Coagulated Shell
+Combat Surge
+ConfusionImmune
+ConfusionRes
+Constrict
+Copy Dad
+Counter Attack
+Demon Rage
+Depressed
+Digested
+Disease 1
+Disease 2
+Disease 3
+Distraction
+DontAttackIt
+Double Money/Items
+Double Time
+Drowsy
+Engulfed
+ExaltedHealTrick
+Eyes Shut
+FallWound
+FallWoundRecover
+Fallow Will
+Far
+Film Bind
+Fire Safety
+Fire Safety Happy
+Fizzy Drink
+Freak Out
+Frog Curse
+Gamma Rays
+Garrison
+Good Dan
+Governor
+Grinning Beast
+Grinning Beast X
+Ground Anchor
+Gummed up
+Half Encounters
+Heart
+Heros Will
+Hide
+Hollow
+Hungry
+Hurt Me Plenty
+Infection
+Insane
+Insulted
+Intestines
+Invulnerable
+Kidneys
+Killshot
+Life Regen
+Listless
+Liver
+Lock Out
+Lonely
+Long Haul Flow
+Lungs
+Lyme Disease
+Mad
+Mangled left hand
+Mangled right hand
+Melted
+Mosh Pit
+Mutate
+Mycelium
+Net
+Nitro Boost
+Not Fighting
+Numb
+On Break
+Pain
+Pancreas
+PanicImmune
+PanicRes
+ParalyzeImmune
+ParalyzeRes
+PhilPower1
+PhilPower2
+PhilPower3
+Poison Strength
+Prayer
+PreventSubstitute
+PriorityProtect
+Protect
+Protection
+Puppet
+RageImmune
+RageRes
+Recorded
+Rested
+Risk Taker
+Ritual
+Roach Shield
+RoachSchism
+Royal Decree
+Second Wind
+Seizures
+SleepImmune
+SleepRes
+Smelly
+Song of Defense
+Song of Speed
+Song of Strength
+Song of Willpower
+Soothe
+Soulless
+Soulsteal
+Spinal Control
+Spineball
+Spore
+Spore Poison
+Stam Regen
+Starving
+Stomach
+Strategy
+StunImmune
+StunRes
+Swarm
+Swarm 1
+Swarm 2
+Swarm 3
+Taken
+Teething
+Tickle
+Time Stop
+Time Stop Immune
+Tough Love
+Unmade
+Unmasked
+Uterus
+Vulnerable
+Weakened
+Whip Entangle
+Wide Awake
+Wither
+Worm Elixer
+Worm Smell
+Wuss Out
+attack+100%
+attack+25%
+attack+50%
+attack-25%
+attackCount+1
+bossDeath
+defense+100%
+defense+25%
+defense+50%
+defense-25%
+disease affinity
+disease affinity+
+dmgOvrTimeResist
+dodge+10%
+dodge+20%
+dodge+40%
+giantRevolverReal
+gunResist+25%
+gunResist+50%
+gunResist+90%
+huskDefending
+lifeRegen+10%
+lifeRegen+15%
+lifeRegen+2%
+lifeRegen+5%
+markedEnemy
+maxLife+100%
+maxLife+25%
+maxLife+50%
+maxLife-25%
+permanentProtect
+physResist+25%
+physResist+50%
+physResist+90%
+prepare
+shielded
+usedTonic
