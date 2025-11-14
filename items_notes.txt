@@ -1,0 +1,416 @@
+<WD_Items: coin>
+<coinval:100>
+---
+<WD_Items: coin>
+<coinval:10>
+---
+<WD_Items: coin>
+<coinval:1>
+---
+<WD_Items: coin>
+<coinval:200>
+---
+<WD_Items: coin>
+<coinval:25>
+---
+<WD_Items: coin>
+<coinval:5>
+---
+<WD_Items: cook fridge ckBEAN ckTOMATO ckEGG ckCHICKEN ckHAM>
+<ckCode:BREAD>
+---
+<WD_Items: cook fridge ckPIZZA ckNOODLE ckBREAD ckRICE>
+<ckCode:CHICKEN>
+---
+<WD_Items: cook fridge ckPIZZA ckSTEW ckRICE ckHAM ckBEEF>
+<ckCode:VEG>
+---
+<WD_Items: cook fridge ckPIZZA ckVEG ckBEAN ckBREAD ckEGG>
+<ckCode:PORK>
+---
+<WD_Items: cook fridge ckPIZZA ckVEG ckPOTATO>
+<ckCode:BEEF>
+---
+<WD_Items: cook fridge ckPORK ckCHICKEN ckBEEF ckVEG>
+<ckCode:PIZZA>
+---
+<WD_Items: cook fridge ckRICE ckPORK ckBREAD>
+<ckCode:EGG>
+---
+<WD_Items: cook fridge ckSTEW>
+<ckCode:FISH>
+---
+<WD_Items: cook fridge>
+<ckCode:BITES>
+---
+<WD_Items: cook fridge>
+<ckCode:TV>
+---
+<WD_Items: cook pantry ckBEEF>
+<ckCode:POTATO>
+---
+<WD_Items: cook pantry ckBREAD ckNOODLE ckBEAN ckRICE>
+<ckCode:TOMATO>
+---
+<WD_Items: cook pantry ckBREAD ckSTEW ckRICE ckTOMATO ckPORK>
+<ckCode:BEANS>
+---
+<WD_Items: cook pantry ckTOMATO ckCHICKEN>
+<ckCode:NOODLE>
+---
+<WD_Items: cook pantry ckVEG ckFISH ckBEAN>
+<ckCode:STEW>
+---
+<WD_Items: cook pantry ckVEG ckTOMATO ckBEAN ckCHICKEN ckEGG>
+<ckCode:RICE>
+---
+<WD_Items: cook pantry>
+---
+<WD_Items: craft mxCLEANEREX mxCLOTH mxWORMJ>
+<mxCode:GAS>
+---
+<WD_Items: craft mxDCLOGGER mxPESTICIDE mxPALEFLUID>
+<mxCode:KLYSOX>
+---
+<WD_Items: craft mxDCLOGGER>
+<mxCode:CAUSTICBREW>
+---
+<WD_Items: craft mxGASOLINE mxVINEGAR mxKLYSOX mxVODKA mxENZYME>
+<mxCode:CLEANEREX>
+---
+<WD_Items: craft mxKLYSOX mxCATALYST>
+<mxCode:PESTICIDE>
+---
+<WD_Items: craft mxKLYSOX mxWORMJ>
+<mxCode:PALEFLUID>
+---
+<WD_Items: craft mxMEDICELL mxPUROCARE mxCLEANEREX mxENZYME mxMUSHROOM>
+<mxCode:VINEGAR>
+---
+<WD_Items: craft mxPALEFLUID mxGAS>
+<mxCode:WORMJ>
+---
+<WD_Items: craft mxREAGENT mxKLYSOX mxCAUSTICBREW>
+<mxCode:DCLOGGER>
+---
+<WD_Items: craft mxTONIC mxDCLOGGER mxENZYME>
+<mxCode:REAGENT>
+---
+<WD_Items: craft mxTONIC mxPESTICIDE>
+<mxCode:CATALYST>
+---
+<WD_Items: craft mxVINEGAR mxTONIC mxCLEANEREX mxREAGENT>
+<mxCode:ENZYME>
+---
+<WD_Items: craft mxWHISKY mxMEDICELL>
+<mxCode:BLACKOOZE>
+---
+<WD_Items: discObj>
+---
+<WD_Items: email>
+---
+<WD_Items: gamemode>
+---
+<WD_Items: gift>
+---
+<WD_Items: medical craft mxCLOTH mxVODKA mxWHISKY mxMEDICELL mxVINEGAR>
+<mxCode:PUROCARE>
+---
+<WD_Items: medical craft mxPUROCARE mxVINEGAR mxCLOTH mxKLYSOX mxMUSHROOM mxBLACKOOZE>
+<mxCode:MEDICELL>
+---
+<WD_Items: medical>
+---
+<WD_Items: nothing>
+---
+<WD_Items: snack>
+---
+<WD_Items: valuables gift>
+<appraiseVal:10>
+---
+<WD_Items: valuables gift>
+<appraiseVal:120>
+---
+<WD_Items: valuables gift>
+<appraiseVal:200>
+---
+<WD_Items: valuables gift>
+<appraiseVal:20>
+---
+<WD_Items: valuables gift>
+<appraiseVal:2>
+---
+<WD_Items: valuables gift>
+<appraiseVal:30>
+---
+<WD_Items: valuables gift>
+<appraiseVal:400>
+---
+<WD_Items: valuables gift>
+<appraiseVal:40>
+---
+<WD_Items: valuables gift>
+<appraiseVal:4>
+---
+<WD_Items: valuables gift>
+<appraiseVal:50>
+---
+<WD_Items: valuables gift>
+<appraiseVal:5>
+---
+<WD_Items: valuables gift>
+<appraiseVal:60>
+---
+<WD_Items: valuables gift>
+<appraiseVal:80>
+---
+<WD_Items: valuables gift>
+<appraiseVal:8>
+---
+<WD_Items:recipe>
+<ing1:13> <ing2:150>
+<res:7> <amnt:6>
+---
+<WD_Items:recipe>
+<ing1:147> <ing2:164>
+<res:158> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:148> <ing2:165>
+<res:17> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:149> <ing2:163>
+<res:159> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:150> <ing2:162>
+<res:80> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:150> <ing2:165>
+<res:7> <amnt:3>
+---
+<WD_Items:recipe>
+<ing1:150> <ing2:166>
+<res:7> <amnt:4>
+---
+<WD_Items:recipe>
+<ing1:158> <ing2:159>
+<res:160> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:158> <ing2:163>
+<res:89> <amnt:2>
+---
+<WD_Items:recipe>
+<ing1:159> <ing2:161>
+<res:12> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:159> <ing2:167>
+<res:90> <amnt:2>
+---
+<WD_Items:recipe>
+<ing1:160> <ing2:168>
+<res:79> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:161> <ing2:165>
+<res:13> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:161> <ing2:166>
+<res:89> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:161> <ing2:167>
+<res:168> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:161> <ing2:172>
+<res:147> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:162> <ing2:167>
+<res:91> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:163> <ing2:164>
+<res:90> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:164> <ing2:168>
+<res:91> <amnt:2>
+---
+<WD_Items:recipe>
+<ing1:165> <ing2:166>
+<res:8> <amnt:2>
+---
+<WD_Items:recipe>
+<ing1:165> <ing2:172>
+<res:14> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:43> <ing2:148>
+<res:149> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:43> <ing2:150>
+<res:100> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:43> <ing2:166>
+<res:8> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:44> <ing2:150>
+<res:100> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:44> <ing2:166>
+<res:8> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:44> <ing2:167>
+<res:286> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:46> <ing2:147>
+<res:48> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:46> <ing2:172>
+<res:127> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:8> <ing2:13>
+<res:9> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:8> <ing2:158>
+<res:2> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:8> <ing2:159>
+<res:15> <amnt:1>
+---
+<WD_Items:recipe>
+<ing1:8> <ing2:160>
+<res:16> <amnt:1>
+---
+<WD_Items:videogame>
+---
+<energy:10>
+<teeth:1>
+---
+<energy:1>
+<teeth:2>
+---
+<energy:2>
+<teeth:2>
+---
+<energy:2>
+<teeth:2>
+<WD_Items: medical craft mxCLOTH mxPUROCARE mxBLACKOOZE>
+<mxCode:WHISKY>
+---
+<energy:2>
+<teeth:2>
+<WD_Items: medical craft mxCLOTH mxPUROCARE mxCLEANEREX>
+<mxCode:VODKA>
+---
+<energy:2>
+<teeth:5>
+---
+<energy:3>
+<teeth:6>
+---
+<energy:4>
+<teeth:1>
+---
+<energy:8>
+<teeth:5>
+---
+<food:10>
+<teeth:1>
+<WD_Items: snack sandwich>
+---
+<food:10>
+<teeth:1>
+<WD_Items: snack>
+---
+<food:12>
+<teeth:1>
+<WD_Items: snack sandwich>
+---
+<food:14>
+<teeth:1>
+<WD_Items: snack sandwich>
+---
+<food:15>
+<teeth:1>
+<WD_Items: snack sandwich>
+---
+<food:1>
+<teeth:2>
+<WD_Items: snack>
+---
+<food:20>
+<teeth:1>
+<WD_Items: snack>
+---
+<food:2>
+<morale:1>
+<teeth:2>
+<WD_Items: snack>
+---
+<food:2>
+<teeth:1>
+<WD_Items: snack craft mxVINEGAR mxMEDICELL>
+<mxCode:MUSHROOM>
+---
+<food:2>
+<teeth:1>
+<WD_Items: snack>
+---
+<food:32>
+<teeth:1>
+<WD_Items: snack>
+---
+<food:4>
+<teeth:1>
+<WD_Items: snack>
+---
+<food:4>
+<vigor:1>
+<morale:1>
+<teeth:2>
+<WD_Items: snack>
+---
+<food:6>
+<teeth:1>
+<WD_Items: snack>
+---
+<food:8>
+<teeth:1>
+<WD_Items: snack>
+---
+<mxCode:BANDAGES>
+<WD_Items: medical>
+---
+<mxCode:CLOTH>
+<WD_Items: craft mxDISINFECTANT mxVODKA mxWHISKY mxPUROCARE mxGASOLINE mxMEDICELL>
+---
+<mxCode:DISINFECTANT>
+<WD_Items: medical craft mxTONIC mxCLOTH>
+---
+<mxCode:TONIC>
+<WD_Items: medical craft mxDISINFECTANT mxREAGENT mxENZYME mxCATALYST>
+---
+This one contains the sky
+---
+correct painting
+---
+incorrect painting
+---

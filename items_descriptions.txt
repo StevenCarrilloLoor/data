@@ -1,0 +1,1023 @@
+A bag of rich soil intended for potted plants.
+---
+A basket of laundry.
+---
+A can of tomatoes, full of tomato sauce.
+Used in cooking.
+---
+A crate full of ammo. Who knows what could be inside?
+---
+A detonator component used in crafting special
+sapper charges.
+---
+A dog's chew toy. You could try throwing this.
+---
+A flask of tranquilizer. May put a target to sleep.
+---
+A flask of very strong paint thinner.
+---
+A gift from that strange masked creature.
+It makes you feel a bit uneasy, somehow...
+---
+A gift-wrapped box. Who knows what could be inside?
+---
+A glass bottle. You could throw this.
+Deals 22 crushing damage.
+---
+A heavy brick. Good for throwing.
+Deals 26 crushing damage. Chance to Stun.
+---
+A heavy journal kept by Sybil.
+---
+A home key given by Frederic, the painter.
+---
+A human ear with a bit of ear canal attached,
+like it was the roots of a flower.
+---
+A human eye with a bit of the optic nerve.
+It feels warm to the touch.
+---
+A human foot, severed above the ankle.
+---
+A human hand, severed at the wrist.
+---
+A human heart. You can feel it faintly beating.
+---
+A juicy hunk of beef, found in countless recipes.
+Used in cooking.
+---
+A juicy pork loin just waiting to be roasted.
+Used in cooking.
+---
+A key carried by Eugene.
+---
+A key for a heavy padlock.
+---
+A key found in a lost letter found on floor 1.
+The letter was signed Edwin, aparment 31.
+---
+A key to Lyle's dark room.
+---
+A key to the landlord's apartment on the
+ground floor.
+---
+A kid's teddy bear. Could be thrown as a distraction.
+Its name tag says, "Fuzzy".
+---
+A large molar tooth. Might be from a human.
+---
+A large, black carry bag with a zipper, used to
+transport and protect paintings.
+---
+A last will detailing the division of an estate.
+---
+A length of small intestine.
+---
+A little green plastic guy with a rifle.
+---
+A loaf of bread, slightly stale.
+Used in cooking.
+---
+A manuscript taken from the writer's room.
+A loose set of typewritten sheets.
+---
+A manuscript taken from the writer's room.
+In a clean manila envelope tied in red string.
+---
+A mixture of chemicals, mostly rock salt, used to
+melt ice. Often used on roads and walkways.
+---
+A mushroom found in the basement.
+---
+A nice fountain pen.
+---
+A normal butter knife. Could be thrown.
+Deals 30 slashing damage.
+---
+A normal table fork. Could be thrown.
+Deals 30 piercing damage.
+---
+A packet of instant noodles.
+---
+A painting of an old man, wrapped in paper.
+---
+A painting stored in a canvas carry bag.
+---
+A photograph of you.
+---
+A pile of old mail sent to Pierre by mistake.
+---
+A pinch of shiny silver dust. Could be valuable.
+Could throw to blind an enemy.
+---
+A plate, just the right size and heft for throwing.
+Deals 24 crushing damage. Chance to Stun.
+---
+A pungent wedge of very sharp cheese.
+Recovers at least 32 HP, 12 STM.
+---
+A radio. It has power.
+Use this to contact the scout.
+---
+A radio. It is recharging.
+---
+A recording from the video surveillance cameras.
+---
+A repaired telescope. The pieces were found in the
+hidden planetarium in Apartment 12.
+---
+A rusty, paint-stained key.
+---
+A sealed letter with a little heart on it.
+It is addressed to Nestor.
+---
+A shiny, brass door knob.
+---
+A shot that makes you nearly invulnerable for
+some time.
+---
+A single serving of long-grain rice.
+Used in cooking.
+---
+A slightly crumpled set of typewritten paper.
+The typing looks erratic.
+---
+A small key for a child safety barrier.
+---
+A small key that can be used to open all sorts
+of doors and containers. Breaks on use.
+---
+A small red key found on Sybil.
+---
+A specialized explosive for digging holes and
+clearing out rubble.
+---
+A standard frozen pizza. Add your own toppings!
+Used in cooking.
+---
+A sturdy length of rope.
+---
+A tag on this old key has the number 11 on it.
+---
+A tongue. It still feels warm.
+---
+A torn-off face recovered from the face taker.
+---
+A truly foul drink.
+---
+A valve handle.
+---
+A valve handle. 
+---
+A very nice trophy for your house.
+---
+Acid dart for a dart gun.
+---
+Acid projectile for a crossbow.
+---
+Acid shell for a grenade launcher.
+---
+Alcohol-based product used to disinfect.
+A component of various medical products.
+---
+All that is left of a broken item.
+---
+Ammo belt for a belt-fed Gatling gun.
+---
+An apartment key labeled 21.
+---
+An apartment key labeled 22.
+---
+An apartment key labeled 33.
+---
+An apartment key labeled 35.
+---
+An egg laid by a red worm.
+---
+An electrical device used to make coffee. Found in
+many kitchens.
+---
+An electronic car key. Where could it be parked?
+---
+An old NeoDuo console that belongs to Dan.
+Only rich kids and hardcore gamers had these.
+---
+An old VHS tape of a wedding.
+---
+An old baby photograph.
+"George, age 2".
+---
+An old basement key covered in rust.
+---
+An old cellphone with a keypad and some built-in
+apps. Its battery is dead.
+---
+Antoine had this key.
+---
+Audio cassette mixtape of some old bands you
+never heard of.
+---
+Below are spaces for when you would like to display
+items above the recovery items.
+---
+Black Ooze + Medicell
+---
+Black Ooze + Whiskey
+---
+Black and white photograph of nothing.
+---
+Black and white photograph of the sky. 
+You can't look at it...
+---
+Box of tools used for plumbing. Soldering irons,
+wrenches, cutters and measuring tools.
+---
+Brings good luck.
+---
+Buckshot shell for a shotgun.
+---
+Bullet for a high caliber rifle.
+---
+Bullet for a hunting rifle.
+---
+Can be used as ammo with a slingshot.
+---
+Caustic Brew + D-Clogger
+---
+Charged batteries. Can be used to power some
+small electronics.
+---
+Chemical product used as a cleaning agent,
+and is sometimes a component for medical items.
+---
+Cleanerex + Enzyme
+---
+Cleanerex + Vinegar
+---
+Cloth + Gasoline
+---
+Cloth + Vodka
+---
+Cloth + Whisky
+---
+Common marble. Could be used with a slingshot.
+---
+Completely restores HP and STM.
+Can even be used in the heat of battle.
+---
+Concoction created by Monty. Highly explosive.
+He and Xaria drink this stuff?! Deals 40 blast damage.
+---
+Concoction created by Monty. More dangerous than
+usual. Deals 40 blast damage to all enemies.
+---
+Cures Blindness, and prevents blindness
+for some time.
+---
+Cures mental status effects and makes you
+immune to them. Makes you more vulnerable to sleep.
+---
+Cures most physical status effects.
+Can even be used in the heat of battle.
+---
+Cures poison.
+Can even be used in the heat of battle.
+---
+D-Clogger + Klysox
+---
+D-Clogger + Reagent
+---
+Dangerous chemical solution used to unclog pipes.
+---
+Disinfectant + Cloth
+---
+Displays your health.
+---
+Enough eggs to make something good!
+Used in cooking.
+---
+Everything you need to make some delicious stew.
+Used in cooking.
+---
+Explosive projectile for a crossbow.
+---
+Explosive shell for a grenade launcher.
+---
+Explosive that charms enemies. 40 acid damage
+to all enemies, and may cause Charm.
+---
+Explosive that sprays toxic filth. 20 acid damage
+to all enemies, and may cause Poison and Disease.
+---
+Extremely salty, extremely processed, extremely
+mediocre. Used in cooking.
+---
+Flask of cold, seemingly animate fluid.
+Afflicts all enemies. May cause Madness.
+---
+Flask of powerful acid. One target, high acid damage.
+---
+For brushing your teeth.
+---
+Foul-smelling juice. Attracts enemy attacks toward
+user for 4-6 turns. Only usable in combat.
+---
+Frederic has placed a piece of himself in this jar.
+Open it to get medical attention once a day.
+---
+From: <fjshfhjsfj@spoofmail.ky>
+---
+Frozen vegetables in a plastic bag. Used in cooking.
+---
+Gas shell for a grenade launcher.
+---
+Gasoline + Cleanerex
+---
+Good ol' spuds, straight from the dirt! Are those
+eyes looking at you? Used in cooking.
+---
+Handy multi-purpose tape used to repair things.
+---
+Heals 30% HP. Attracts enemy attention and grants life
+regen for 8-10 turns. Only usable in combat.
+---
+Heals infected wounds.
+---
+Heavy bowling ball. Could do serious damage.
+Deals 60 crushing damage.
+---
+Herbicide + Catalyst
+---
+Highly flammable fuel.
+---
+Homemade explosive from various chemicals.
+100 blast damage to all enemies, and chance to Stun.
+---
+Homemade gas bomb. Deals little damage, but
+chance to Blind and Stun all enemies.
+---
+Homemade incendiary grenade.
+Deals 60 fire damage, and chance to Burn target.
+---
+Incendiary projectile for a crossbow.
+---
+Incendiary shell for a grenade launcher.
+---
+Increases power, grants extra attacks and protection
+from status effects, but increases all damage taken.
+---
+Inflicts heavy Bleeding on all targets.
+---
+Intended for people who beat the game before and
+want an extra challenge. (not available yet)
+---
+Intended for those who played before and want an extra
+challenge. \C[10]Not recommended for your first playthrough.
+---
+It feels strangely heavy.
+---
+It hitched a ride in your bag.
+---
+It seems like a human brain.
+---
+It's taken a liking to you.
+---
+Jasper had this key. It is stained with some kind of
+squishy goop.
+---
+Just add hot water and - VOILA! You've got a feast!
+Used in cooking.
+---
+Key for a coffee shop on the building's ground level.
+---
+Keychain with the branding of a convenience store.
+---
+Klysox + Herbicide
+---
+Knife meant for throwing.
+Deals 50 slashing damage.
+---
+Long, needle-shaped key with an eyelike design at
+its base. It subtly shifts in your hand.
+---
+Low caliber bullet for a handgun.
+---
+Lump of pulsating flesh. Can be thrown in battle.
+---
+Magnum revolver bullet.
+---
+Medicell + Cloth
+---
+Medicell + Purocare
+---
+Medicine crafted from black ooze. Use to recover
+around 50% HP, but increases danger upon use.
+---
+More powerful tonic! Use to recover 60% HP!
+Can even be used in the heat of battle.
+---
+Mushroom + Medicell
+---
+Mushroom + Vinegar
+---
+Normal mode + high starting level, boosted stats,
+starting items, gold
+---
+Nothing at all!
+---
+Odd-smelling, thick, pale fluid. Heals 30% HP,
+cures Poison and Paralysis.
+---
+Old military tags from the war.
+---
+On closer inspection, there is a price tag on it.
+It might be a halloween decoration.
+---
+One of Monty's less successful brewing attempts.
+It smells rancid. Deals 20 acid damage.
+---
+Pale Fluid + Klysox
+---
+Paper that was exposed to something. Will develop
+into a photo if developed in a dark room.
+---
+Paper treated with silver halide crystals to darken
+after exposure to light and development.
+---
+Papineau can use this to take a break.
+---
+Papineau's empty lunchbox. Will be replenished
+after resting.
+---
+Pieces of a small telescope found in the
+planetarium of Apartment 12.
+---
+Playing dart, good for throwing.
+Deals 50 piercing damage.
+---
+Potent weed killer in a spray bottle. Could be
+used to kill those fleshy growths blocking the way.
+---
+Powerful incendiary grenade.
+Deals 100 Fire damage, and Burns all targets.
+---
+Powerful multi-purpose chemical used in laundry.
+---
+Projectile for a crossbow.
+---
+Pull the pin, throw and take cover.
+Deals 80 blast damage to all enemies.
+---
+Purocare + Cloth
+---
+Rare candy. Heals at least 40 HP and 20 STM.
+Permanently boosts Agility by 2.
+---
+Rare candy. Heals at least 40 HP and 20 STM.
+Permanently boosts Attack by 2.
+---
+Rare candy. Heals at least 40 HP and 20 STM.
+Permanently boosts Ballistics by 2.
+---
+Rare candy. Heals at least 40 HP and 20 STM.
+Permanently boosts HP by 20.
+---
+Rare candy. Heals at least 40 HP and 20 STM.
+Permanently boosts Luck by 2.
+---
+Rare candy. Heals at least 40 HP and 20 STM.
+Permanently boosts STM by 10.
+---
+Rare marble. Could be used with a slingshot.
+---
+Reagent + Enzyme
+---
+Restores 50% of HP and STM, and revives.
+Can even be used in the heat of battle.
+---
+Revives someone back to consciousness, and can be
+used in battle. Also wakes from sleep.
+---
+Scrap of cloth. Could be used to make something.
+---
+Set of throwing stars. Hits three random targets
+for 30 slashing damage.
+---
+Showers are more effective with this.
+---
+Small caliber bullet for an SMG.
+---
+Small canister of acid.
+---
+Small canister of fuel.
+---
+Small canister of powerful acid.
+---
+Some elegant stationery from the post office.
+---
+Sour liquid used in cleaning and cooking.
+---
+Special key to open up a vending machine.
+---
+Stable chemical compound used in crafting.
+---
+Steel dart for a dart gun.
+---
+Still a challenge, but more forgiving. Game autosaves
+as you explore and you can save anytime, anywhere.
+---
+Strange black ooze. It moves on its own, as if alive.
+Drinking this is... dangerous. Increases Danger.
+---
+Strange disc with a blank center.
+---
+Strange disc with a negative image imprinted on.
+You can't make out anything by looking at it.
+---
+Strange disc with a picture of the Sun.
+---
+Strange disc with a picture of the dwarf planet
+Pluto.
+---
+Strange disc with a picture of the planet Earth.
+---
+Strange disc with a picture of the planet Jupiter.
+---
+Strange disc with a picture of the planet Mars.
+---
+Strange disc with a picture of the planet Mercury.
+---
+Strange disc with a picture of the planet Neptune.
+---
+Strange disc with a picture of the planet Saturn.
+---
+Strange disc with a picture of the planet Uranus.
+---
+Strange disc with a picture of the planet Venus.
+---
+Strange explosive that projects keratinous shrapnel.
+80 piercing damage to all enemies, may cause Bleed.
+---
+Strange projectile for a crossbow.
+---
+Strong-smelling brew of black ooze. Drinking this
+heals 30% STM, cures Panic and Confusion.
+---
+Strong-smelling chemical used in cleaning. Hurts
+the eyes.
+---
+Supply crate found in a hidden cache.
+---
+Taken from us too soon... there must be a way.
+---
+Tasteless fish fillets in a bag. Used in cooking.
+---
+Terrifying image. Your heart stops every time you
+glance at it.
+---
+The Frederic piece is resting after some hard work.
+---
+The face reads \V[12].
+---
+The full survival horror experience. Resources are
+more scarce and battles more fierce.
+---
+The hairless tail of a dead rat.
+---
+The key leaves dark smudges on your hands.
+---
+The key ring of a janitor. Should open janitor
+closets all over the building.
+---
+The lowest value coin.
+Very few vending machines take these.
+---
+There is a cute little guinea pig in the cage.
+Seems to have plenty of food and water in there.
+---
+Thick balm that can cure bleeding, burns or acid.
+Can even be used in the heat of battle.
+---
+Thighs, wings, breast... you're getting hungry
+looking at this chicken! Used in cooking.
+---
+This actually smells great, but Monty is ashamed
+of it. He calls it "dreck". Recovers 20% HP and MP!
+---
+This is a blank tape from the security room.
+---
+This is a lump of fungus roughly shaped like
+a tonic bottle...
+---
+This mine is no longer a threat.
+---
+Tiny capsules filled with something foul.
+Monty makes these.
+---
+Tonic + Catalyst
+---
+Tonic + Disinfectant
+---
+Tonic + Enzyme
+---
+Tonic + Reagent
+---
+Tranquilizer dart for a dart gun.
+---
+Ultra Rare marble. Could be used with a slingshot.
+---
+Uncommon candy. Heals at least 20 HP and 10 STM.
+---
+Uncommon marble. Could be used with a slingshot.
+---
+Use outside of battle to recover 20% of HP and
+recover from bleeding.
+---
+Use outside of battle to recover 50% of HP and
+revives someone who is unconscious.
+---
+Use outside of battle to revive an unconscious ally
+and recover 20% of HP. \V[474] uses left.
+---
+Use to recover 40% HP to whole party, even in the
+heat of battle.
+---
+Use to recover 40% HP, and relieves pain.
+Can even be used in the heat of battle.
+---
+Used in certain scientific formulae.
+---
+Very common marble. Could be used with a slingshot.
+---
+Very powerful explosive. Deals 160 Blast damage to
+all enemies, and has a chance to Stun.
+---
+Very rare candy. Fully heals HP and STM.
+Permanently boosts all stats by 1.
+---
+Very rare candy. Heals at least 80 HP and 40 STM.
+Permanently boosts HP by 20 and STM by 10.
+---
+Vinegar + Enzyme
+---
+Vinegar + Medicell
+---
+Vinegar + Purocare
+---
+Vodka + Cleanerex
+---
+Vodka + Purocare
+---
+When pizza's in a bite, you can eat pizza anytime.
+Used in cooking.
+---
+Whisky + Purocare
+---
+Will open most simple locks.
+---
+Worm Juice + Gasoline
+---
+Worm Juice + Pale Fluid
+---
+Worth 10 pennies.
+Some vending machines take these.
+---
+Worth 100 pennies.
+Some vending machines take these.
+---
+Worth 200 pennies.
+Some vending machines take these.
+---
+Worth 25 pennies.
+Many vending machines take these.
+---
+Worth 5 pennies.
+Few vending machines take these.
+---
+You'll never guess what's in this can.
+Used in cooking.
+---
+[DRINK] A can of high-caffeine energy drink.
+Recovers 42 STM.
+---
+[DRINK] A cup of coffee. It got cold...
+Recovers 15 STM.
+---
+[DRINK] A warm cup of drip coffee.
+Recovers 30 STM.
+---
+[DRINK] A warm, sweet and bitter cup of hot cocoa.
+Recovers at least 20 HP and 20 STM.
+---
+[DRINK] Bottle of beer.
+Recovers 8 STM.
+---
+[DRINK] Bottle of vodka.
+Recovers 20 STM.
+---
+[DRINK] Bottle of whiskey.
+Recovers 16 STM.
+---
+[DRINK] Caffeine-free sugary drink.
+Recovers 10 STM.
+---
+[DRINK] Caffeine-free sugary drink.
+Recovers 8 STM.
+---
+[DRINK] Orange juice in a box.
+Recovers 6 STM.
+---
+[DRINK] Sugary drink with some caffeine.
+Recovers 12 STM.
+---
+[SNACK] A bag of corn-cheese puff snacks.
+Recovers at least 16 HP and 4 STM.
+---
+[SNACK] A bag of small fried onion rings.
+Recovers at least 24 HP.
+---
+[SNACK] A bag of very spicy chips.
+Recovers at least 10 HP, 4 STM.
+---
+[SNACK] A big carrot muffin.
+Recovers at least 48 HP. Somewhat filling.
+---
+[SNACK] A controversial slice of sweet and savory
+pineapple pizza. Recovers 20 HP and 14 STM.
+---
+[SNACK] A crispy slice of chicken and mushroom pizza.
+Recovers 32 HP and 6 STM.
+---
+[SNACK] A double-bag of bear-shaped fruit gum candy.
+Recovers at least 8 HP.
+---
+[SNACK] A grotesque slice topped with fingers, eyes
+and tongues. Recovers 50 HP and 20 STM, but...
+---
+[SNACK] A hearty chicken burrito with beans and rice.
+Recovers at least 30 HP and 10 STM. Very filling.
+---
+[SNACK] A hearty chicken sandwich with diced onions.
+Recovers at least 40 HP. Very filling.
+---
+[SNACK] A hearty ham sandwich with mustard and
+lettuce. Recovers at least 40 HP. Very filling.
+---
+[SNACK] A hearty packed meal to eat on the go.
+Recovers at least 80 HP and 40 STM. Very filling.
+---
+[SNACK] A huge sandwich filled with goodies.
+Recovers at least 50 HP and 20 STM. Very filling.
+---
+[SNACK] A large slice of a strange meaty fruit.
+Recovers at least 32 HP and 16 STM. Somewhat filling.
+---
+[SNACK] A lump of fungus roughly shaped like
+a fruit...
+---
+[SNACK] A pizza with too many toppings.
+Recovers 50 HP and 20 STM.
+---
+[SNACK] A sandwich with egg salad and mayo.
+Recovers at least 32 HP. Very filling.
+---
+[SNACK] A slice of Italian-style pizza.
+Recovers 20 HP and 10 STM.
+---
+[SNACK] A slice of basic cheese pizza.
+Sometimes simple is good! Recovers 16 HP, 4 STM.
+---
+[SNACK] A slice of savory veggie pizza.
+Heals 18 HP and 16 STM.
+---
+[SNACK] A slice of standard, all-dressed pizza.
+Recovers 24 HP and 6 STM.
+---
+[SNACK] A somewhat filling granola bar.
+Recovers at least 28 HP, 2 STM.
+---
+[SNACK] A thick chocolate bar with caramel filling.
+Recovers at least 16 HP, 8 STM. Somewhat filling.
+---
+[SNACK] A tomato sandwich with mayo, pepper
+and chives. Recovers at least 28 HP and 10 STM
+---
+[SNACK] A very juicy fruit.
+Recovers 20 HP, 10 STM.
+---
+[SNACK] An enormous burrito.
+Recovers at least 100 HP and 10 STM. Very filling.
+---
+[SNACK] Chewing gum that helps with bad breath.
+---
+[SNACK] Chocolate sticks. Packaging is in Japanese.
+Recovers at least 20 HP, 14 STM.
+---
+[SNACK] Did a worm bake this pie?
+Restores at least 80 HP and STM to the whole party.
+---
+[SNACK] If you love meat, this slice is for you.
+Recovers 44 HP and 4 STM.
+---
+[SNACK] It lost a bit of its freshness, but it's
+still good. Recovers 12 HP and 2 STM.
+---
+[SNACK] Salty bag of ruffled chips.
+Recovers at least 14 HP and 2 STM.
+---
+[SNACK] Small candy in a wrapper.
+Recovers at least 4 HP.
+---
+[SNACK] Some leftovers from a meal.
+Recovers 12 HP and 4 STM.
+---
+[SNACK] Some rotten leftovers from a meal.
+Recovers some hunger, but...
+---
+[SNACK] This pizza has seen better days. A bit
+risky to eat... Recovers 8 HP and 2 STM.
+---
+[Video Game] A cooking game with a cute octopus
+mascot. A lot of multitasking in a kitchen.
+---
+[Video Game] A football game where all players are
+reptiles and amphibians. Some dinosaurs too.
+---
+[Video Game] A long haul trucking simulator in
+space. You can play this for a long time.
+---
+[Video Game] A more complex RTS sequel to Myrmidon
+where you conquer a backyard with military tactics.
+---
+[Video Game] A peculiar game where you manage a
+circle of hell where wizards are punished.
+---
+[Video Game] A surprisingly difficult puzzle game
+that tests your memory. Cute, forgetful little frogs.
+---
+[Video Game] A top-down squad tactics game with
+little ant people as soldiers.
+---
+[Video Game] An infamously violent game that was
+banned in several countries, including this one.
+---
+[Video Game] Auntie Wilma's Crossword Challenge.
+Is this a bootleg?
+---
+[Video Game] Famously difficult platformer with
+a horror theme, set in trap-filled catacombs.
+---
+[Video Game] Mascot platformer sequel. You heard this
+one is very different from the others.
+---
+[Video Game] Mascot platformer. Very easy, but fun.
+You played Jumplad a lot as a kid.
+---
+[Video Game] Massacre Princess Catholicon is the full
+name. A very long JRPG based on a popular anime.
+---
+[Video Game] Racing game with vehicular combat.
+---
+[Video Game] Scary first-person dungeon crawl with
+lots of monsters. Based on a tabletop RPG setting.
+---
+[Video Game] Strange sailing game. Seems simple
+but has a huge cult following.
+---
+[Video Game] The scariest game you ever played.
+It gave you nightmares as a kid.
+---
+[Video Game] There is no label on this one. Must
+have been scratched off by a kid. No idea what it is.
+---
+[Video Game] Very bloody beat-em-up style game with
+a dark fantasy theme.
+---
+[Video Game] War-themed first person shooter with
+realistic violence and dubious politics.
+---
+\I[147] A beaver carved from a large piece of
+soapstone.
+---
+\I[147] A big album of postage stamps. They're
+slightly water damaged.
+---
+\I[147] A big coin collection. You could take the
+coins inside to use in a vending machine.
+---
+\I[147] A big collection of hockey cards.
+---
+\I[147] A bit of rogue taxidermy. It has bits
+of fish, rodent and lizard. Looks horrifying.
+---
+\I[147] A bunch of old music CDs.
+---
+\I[147] A collectible, actually.
+---
+\I[147] A collection of monthly magazines.
+---
+\I[147] A decorative lamp filled with dancing bubbles
+of wax.
+---
+\I[147] A fairly realistic-looking taxidermy squirrel.
+
+---
+\I[147] A handbag full of toiletries and other
+personal effects.
+---
+\I[147] A junior league hockey trophy. Looks like
+they got second place at the playoffs.
+---
+\I[147] A maze master's handbook for the tabletop
+RPG Mazes & Wizards.
+---
+\I[147] A positively monstrous taxidermy job on
+an eagle.
+---
+\I[147] A rare comic book in a sealed plastic sleeve.
+There is a certificate of authenticity with it.
+---
+\I[147] A set of vintage wood-paneled speakers.
+---
+\I[147] A small backgammon set. It's missing
+a few tokens, which were replaced with pennies.
+---
+\I[147] A small baseball card collection. Hockey
+cards are more popular here.
+---
+\I[147] A small decorative box filled with seashells.
+---
+\I[147] A small puzzle cube. You know the one.
+---
+\I[147] A small wooden statuette of an elephant.
+---
+\I[147] A spooky spirit board to contact the dead...
+---
+\I[147] A stack of comic books. Mostly hard-cover
+Franco-Belgian comics.
+---
+\I[147] A stack of old manga. Mostly from one
+series you dont recognize.
+---
+\I[147] A standard 52-card deck.
+---
+\I[147] A stash of magazines. The pages are stuck
+together.
+---
+\I[147] A valuable-looking ceramic beer stein.
+---
+\I[147] A very old game console. The controllers
+resemble TV remotes.
+---
+\I[147] A very poor taxidermy job. It looks awful.
+
+---
+\I[147] An elegant little musical box decorated
+with pretty stones.
+---
+\I[147] An old chessboard with hand-carved
+chess pieces
+---
+\I[147] An old family photo album. Baby pictures,
+graduation pictures, travel photos.
+---
+\I[147] An old game console. You played one like
+this as a kid.
+---
+\I[147] An old picture of a man in his fifties
+wearing a melon hat. Set in a decorated wooden frame.
+---
+\I[147] An old-fashioned porcelain tea set with
+floral decorations.
+---
+\I[147] An ornate rosewood box full of bits and bobs.
+Pretty stones, buttons and even some gemstones.
+---
+\I[147] An ornate-looking deck of tarot cards.
+---
+\I[147] An urn of ashes.
+Could throw it to blind all enemies.
+---
+\I[147] Handheld gaming console. There is a game
+inserted called "Catafalque GK". It still works.
+---
+\I[147] Old vinyl records. Seem to be in good
+condition.
+---
+\I[147] Simple colored marker drawings from a child.
+---
+\I[147] Some valuable-looking ornate silverware in a
+wooden box.
+---
+\I[147] Stack of drawings and sketches in the anime
+style, from a beginner.
+---
+\I[147] Very abstract color crayon drawings
+from a baby.
+---
+\N[40] adorably chirps and beeps in your hands.
+She deals \V[351] Blast damage to all enemies.
+---
+\N[40] adorably chirps and beeps in your hands.
+She deals \V[351] Blast damage to one random enemy.
+---
