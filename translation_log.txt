@@ -1,0 +1,16 @@
+================================================================================
+ GENERADOR DE DICCIONARIO DE TRADUCCIÓN COMPLETO
+ Look Outside RPG - CommonEvents.json
+================================================================================
+
+Archivo cargado exitosamente:
+  - Names: 240 textos
+  - Dialogues: 10696 textos
+  - Choices: 1260 textos
+  - Other texts: 72 textos
+  - TOTAL: 12268 textos
+
+[1/4] NAMES: 139 traducciones agregadas
+
+[INFO] Generando diccionario masivo de diálogos...
+[INFO] Esto puede tomar un momento debido al volumen...
