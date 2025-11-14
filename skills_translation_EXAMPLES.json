@@ -1,0 +1,25 @@
+{
+  "names": {
+    "Attack": "Ataque",
+    "Guard": "Guardia",
+    "...Attack?": "...¿Ataque?",
+    "Dual Attack": "Ataque Dual",
+    "Escape": "Escapar",
+    "-- Sophie --": "-- Sophie --",
+    "-----Enemy": "-----Enemigo",
+    "---JOEL SKILLS---": "---HABILIDADES DE JOEL---"
+  },
+  "descriptions": {
+    "\"Non-lethal\" strike.\\nHigh chance to stun target.": "Golpe \"no letal\".\\nAlta probabilidad de aturdir al objetivo.",
+    "A powerful sword attack.": "Un poderoso ataque de espada."
+  },
+  "message1": {
+    "%1 attacks!": "¡%1 ataca!",
+    "%1 guards.": "%1 se defiende.",
+    "%1 absorbs life...": "%1 absorbe vida..."
+  },
+  "message2": {},
+  "notes": {
+    "Skill #1 corresponds to the Attack command.\\n<melee>\\n<breakRate:1>": "La habilidad #1 corresponde al comando Ataque.\\n<melee>\\n<breakRate:1>"
+  }
+}
