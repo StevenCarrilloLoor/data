@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Translation work files
+extract_states_texts.py
+fix_quotes.py
+fix_quotes_unicode.py
+states_translation_dict.py
+states_unique_texts.txt
+translate_states.py
